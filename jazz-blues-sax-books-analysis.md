@@ -14,8 +14,8 @@
 
 **Study-plan progress** — tick these off as you go:
 - [x] **Phase 0** — ~~Finish Rubank Elementary~~ ✅ · ~~finish Saxophon spielen Band 1~~ ✅
-- [ ] **Phase 1** (from-zero on-ramp, **in progress**) — Reading Jazz D1–6 (🔄 on Duet 2) · ~~BetterSax Core Essentials~~ ✅ · Pentatonic Foundation (⏸ skipped) · Beginner Jazz Soloing · Essential Elements **Ex.1–30** (+ Ex.36–39) · *warmup:* Saxophon spielen Band 2 songs
-- [ ] **Phase 2** (first anchor method) — Let's Play Jazz! Ch.1–4 (slow) · Reading Jazz D7–19 · Essential Elements Ex.31–82
+- [ ] **Phase 1** (from-zero on-ramp, **in progress**) — Reading Jazz D1–6 (🔄 on Duet 2) · ~~BetterSax Core Essentials~~ ✅ · Pentatonic Foundation (⏸ skipped) · Beginner Jazz Soloing · Essential Elements **Ex.1–39** · *warmup:* Saxophon spielen Band 2 songs
+- [ ] **Phase 2** (first anchor method) — Let's Play Jazz! Ch.1–4 (slow) · Reading Jazz D7–19 · Essential Elements Ex.40–82
 - [ ] **Phase 3** — Let's Play Jazz! Ch.5–6 · BetterSax Blues Foundation + Blues Language · Harmonic Foundation (concepts) · Reading Jazz D20–30 · Essential Elements Ex.101–120 · *start Essence listening tracks*
 - [ ] **Phase 4** — BetterSax Magic of Melody + Chord Tone Zone · Essential Elements Ex.83–100 (bebop, finishes book) · The Essence of the Blues (easier etudes) · Rhythm Changes Soloing Ch.1–4 · first intermediate books
 - [ ] **Phase 5** — Essence back-half etudes · Rhythm Changes Soloing (bridge/solos) · BetterSax Melodic Etudes Vol.2
@@ -36,25 +36,26 @@ Gave the tone, reading, and finger technique every jazz book assumes.
 | 0b | **Saxophon spielen Band 1** — ✅ done | Consolidates reading and tone. **Band 2 now runs through Phase 1 as warmup** (see below). |
 
 ### Phase 1 — From-zero jazz on-ramp (weeks 1–10) — 🔄 **in progress**
-Nothing here assumes prior jazz skill. **Order matters:** Reading Jazz + EE Ex.1–30 together first (same skill from two angles), *then* Birch — its Ch.4 assumes exactly that swing-rhythm reading. All three at once is too much.
+Nothing here assumes prior jazz skill. **Order matters:** Reading Jazz + EE Ex.1–30 together first (same skill from two angles), *then* Birch — its Ch.4 assumes exactly that swing-rhythm reading. EE Ex.31–39 (chords → guide tones) comes last, late in the phase. All at once is too much.
 
 | # | Resource | Why here |
 |---|---|---|
 | 1 | 🔍 **Reading Jazz** (Rizzo) D1–6 — 🔄 **on Duet 2** | Absolute zero (D1 = quarter notes). Pure rhythm-reading, no improv. |
 | 2 | 🔍 **BetterSax Core Essentials** — ✅ done | Tone/technique. |
-| 3 | 🔍 **Essential Elements** (Steinel) **Ex.1–30** | Jazz articulation (Doo/Bah/Dit/Dot), accenting 2 & 4, swing 8ths, syncopation → **Ex.27 *London Bridge* = gentle first improv**. ⭐ Then reach ahead to **Ex.36–39: guide-tone soloing (R/3/7)** — most transferable improv skill in the library, taught nowhere else. ⚠️ Buy the **Bb/tenor** edition. |
+| 3 | 🔍 **Essential Elements** (Steinel) **Ex.1–39** | **Ex.1–30:** jazz articulation (Doo/Bah/Dit/Dot), accenting 2 & 4, swing 8ths, syncopation → **Ex.27 *London Bridge* = gentle first improv**. ⭐ **Ex.31–39:** jazz chords (maj7/dom7/min7) → 12-bar blues form → **guide-tone soloing on roots/3rds/7ths** — the most transferable improv skill in the library, taught nowhere else. Do 31–32 first; 37–39 depend on knowing what a 3rd and 7th are. Stop at 39 — Ex.40 on is Phase 2. ⚠️ Buy the **Bb/tenor** edition. |
 | 4 | 🔍 **Beginner Jazz Soloing** (Birch) | **The item that actually teaches soloing.** From-zero improv (1 note → 5) on minor pentatonic + blues scale; Q&A phrasing, articulation, composition, transposition. Hardest of the four — start at 60 bpm. |
 | ♪ | **Saxophon spielen Band 2** — *all songs, as warmup* | Straight continuation of Band 1 (✅ done). 26 tunes, **Tenor play-along audio on hand** (demo + play-along per song). Not jazz study — the tone/reading warmup slot alongside Rubank. |
 | — | ~~Pentatonic Foundation~~ ⏸ **skipped** | Birch covers 8 of its 10 concepts at equal-or-greater depth, and it's the same 5 notes (G min pent = Bb maj pent, only the resolution differs). Sole real loss: ear-training on familiar tunes — get it free by working out *Amazing Grace*, *Don't Worry Be Happy*, *Hotel California*, *My Girl*, *A Change Is Gonna Come* by ear. Revisit only if you want video teaching or a gentler ramp. |
 
 #### 📖 Essential Elements — full phase map
-🔍 All 33 pages deep-read. **Spans Phases 1–4** — 120 exercises, from "what is a swing 8th" to bebop enclosure. Clean break at **Ex.31** (chord symbols + 12-bar form = real step up). Unique in the library: guide tones, **paraphrase improv** (decorate the melody, don't run a scale), Doo/Bah/Dit/Dot, bebop vocabulary, Mixolydian/Dorian. Never teaches the pentatonic scale.
+🔍 All 33 pages deep-read. **Spans Phases 1–4** — 120 exercises, from "what is a swing 8th" to bebop enclosure. **Ex.31** starts chord theory (real conceptual step up); the **Phase 1/2 boundary is Ex.40**, since 31–39 is worth pulling into late Phase 1 for the guide tones. Unique in the library: guide tones, **paraphrase improv** (decorate the melody, don't run a scale), Doo/Bah/Dit/Dot, bebop vocabulary, Mixolydian/Dorian. Never teaches the pentatonic scale.
 
 | Ex. | Content | Phase |
 |---|---|---|
 | **1–24** | Attacks/releases, accenting 2 & 4, Doo/Bah/Dit/Dot, swing 8ths, syncopation, *Ja-Da*, *When the Saints* | **1** |
 | **25–30** | "Jazzin' up" melodies; **Ex.27 = first improv**; *Swingin' With Jack* | **1** |
-| **31–45** | maj7/dom7/min7, chord symbols, **12-bar form**, **guide tones (R/3/7)**, dominant scale | late **1** → **2** |
+| **31–39** | maj7/dom7/min7 + chord symbols, **12-bar blues form**, **guide-tone soloing (R/3/7)** | late **1** |
+| **40–45** | Dominant scale, blues scale-step workouts, *Our First Blues* | **2** |
 | **46–59** | *St. Louis Blues* — 2nd key, **improvising *on* the melody**, demo solo | **2** |
 | **60–82** | Blues scale, riffs & licks, major blues scale, bends & scoops, **Q&A** | **2–3** |
 | **101–120** | Even 8ths vs swing, Latin/rock, *Salsa Caliente*, **Dorian** | **3** |
@@ -67,7 +68,7 @@ Now that swing-reading exists, pick up Let's Play Jazz! — but **work it slowly
 |---|---|---|
 | 5 | 🔍 **Let's Play Jazz!** (Jacobsen) Ch.1–4 | Deep-read: the gentle "start" is mostly prose; actual playing (Ch.3 arpeggios/scales) is marked 120–180 bpm and assumes fluent swing-eighth reading — which you now have. Work Ch.1–4 slowly under tempo. **Defer Ch.5–6 (real bebop) to Phase 3.** |
 | 6 | 🔍 **Reading Jazz** D7–19 | Syncopation ramps steadily — keep chipping 1–2 duets/week. |
-| 6b | 🔍 **Essential Elements** Ex.31–82 | Chords + 12-bar form + guide tones (31–45) → *St. Louis Blues* & **improvising on the melody** (46–59) → blues scale, riffs, major blues scale, Q&A (60–82). |
+| 6b | 🔍 **Essential Elements** Ex.40–82 | Dominant scale + *Our First Blues* (40–45) → *St. Louis Blues* & **improvising on the melody** (46–59) → blues scale, riffs, major blues scale, Q&A (60–82). |
 | ref | 🔍 **Terefenko** Ch.1–2 | Dip in only for concepts you hit; these two chapters are beginner-friendly. |
 
 ### Phase 3 — Blues + harmony (months 6–10)
