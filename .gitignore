@@ -1,0 +1,11 @@
+# Python virtualenv for Demucs (~730 MB, machine-specific).
+# Recreate with:  python3 -m venv .venv-demucs && pip install demucs numpy
+.venv-demucs/
+
+# Practice audio derived from commercial CDs (Alfred Music, etc.).
+# Not redistributable — regenerate locally from the source rips with
+# tools/remove_sax.py. See audio-processing-methodology.md.
+extracted-audio/
+
+# macOS
+.DS_Store
