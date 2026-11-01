@@ -202,6 +202,82 @@ experiments left ~230 MB of stem WAVs behind; those were removed and are fully
 regenerable by re-running the script. The one thing to keep is `.venv-demucs/` (~730 MB) —
 delete it and you just reinstall per the setup step above.
 
+---
+
+## Processing more duets (runbook — e.g. Duets 7–30)
+
+`extracted-audio/` is git-ignored, so on a fresh machine it won't exist. Everything needed
+to regenerate it is here plus `tools/remove_sax.py`.
+
+### Source files
+
+The original stereo CD rips live in the user's pCloud library:
+
+```
+<pCloud Drive>/iCloud-Migration/MyBookLive/Sax/Reading_JazzTenorSax-Audio-audioFiles/
+```
+
+On the original Mac `<pCloud Drive>` is `/Users/nenaddjordjevic/pCloud Drive`; on another
+machine, find the mount first. The folder holds 79 tracks (`01_…` to `79_…`), and that
+same folder is also where the processed output is archived (see step 4).
+
+### Which tracks to process
+
+Only the **duet tune itself**, never the `Preliminary_Exercise` tracks. Each duet's tune is
+the last track of its group, the one that is *not* a preliminary exercise:
+
+- Duet 1 → `02_First_Time` and Duet 2 → `06_The_Smoothie`. These two carry **no**
+  `Duet_N` prefix, so a name-based filter misses them.
+- Duets 3–30 → `NN_Duet_N_-_<Title>.mp3` without `Preliminary_Exercise` in the name.
+
+List the duet tunes, excluding outputs you've already made:
+
+```bash
+SRC_DIR=".../Reading_JazzTenorSax-Audio-audioFiles"
+ls "$SRC_DIR" | grep -v Preliminary_Exercise | grep -vE '_Part(I|II)_' 
+```
+
+Duets 7–30 are tracks `21, 24, 27, 31, 34, 37, 40, 44, 46, 49, 52, 54, 56, 58, 60, 62,
+64, 66, 69, 71, 73, 75, 77, 79`.
+
+### Setup on a new machine (one time)
+
+```bash
+brew install ffmpeg                 # provides ffmpeg + ffprobe
+python3 -m venv .venv-demucs        # built with Python 3.14, demucs 4.1.0, torch 2.13
+source .venv-demucs/bin/activate
+pip install demucs numpy
+```
+
+The first Demucs run downloads the `htdemucs_6s` weights, so it needs internet access.
+
+### Steps per duet
+
+```bash
+source .venv-demucs/bin/activate
+mkdir -p extracted-audio
+for f in "$SRC_DIR"/21_*.mp3 ...; do            # the duet-tune tracks only
+  b=$(basename "$f" .mp3)
+  # copy the source locally first: reading heavily off the pCloud mount can wedge it
+  cp "$f" /tmp/"$b.mp3"
+  ffmpeg -y -loglevel error -i /tmp/"$b.mp3" -af "pan=mono|c0=c0" -q:a 2 extracted-audio/"${b}_PartI_left.mp3"
+  ffmpeg -y -loglevel error -i /tmp/"$b.mp3" -af "pan=mono|c0=c1" -q:a 2 extracted-audio/"${b}_PartII_right.mp3"
+  python3 tools/remove_sax.py /tmp/"$b.mp3" --part I --outdir extracted-audio
+done
+```
+
+1. **Split** each tune into `_PartI_left` and `_PartII_right` (Job 1).
+2. **Remove the sax** with `remove_sax.py --part I` → `_PartI_NOSAX` (Job 2). Feed it the
+   original stereo file, never a split output.
+3. **Check the gain** it prints. It should be 0.9–1.15; anything flagged `SUSPECT` must be
+   investigated (see decision 4) before it's archived. If a later duet sounds like it has
+   different instrumentation, check the stem levels as described in decision 1.
+4. **Archive to pCloud.** Copy the three outputs per duet into the same
+   `Reading_JazzTenorSax-Audio-audioFiles` folder, then verify each with `cmp`. `ls` the
+   folder first to make sure the mount responds, and don't retry in a loop if it's hung.
+5. **Record progress.** Update "Done so far" and add each duet's gain to the table in the
+   Results archive above, then commit this doc.
+
 > Practice note: the sax-removed tracks are for *after* you can play the part. Rizzo's own
 > sequence is chant → play along **with** the recorded part → then play it against the other
 > part. A rhythm-only track is the final stage, and doubles as a plain backing track.

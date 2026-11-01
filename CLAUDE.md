@@ -33,6 +33,9 @@ gotchas that each cost a failed attempt. `tools/remove_sax.py` is the reusable s
 (needs the `.venv-demucs` virtualenv). **Read that doc before doing any new audio work**;
 notably, Demucs' `vocals` stem does *not* detect saxophone, and measuring against a
 re-encoded MP3 introduces a 1105-sample delay that masquerades as a bad separation.
+`extracted-audio/` is git-ignored. To regenerate it or process more duets (Duets 7–30 are
+still to do), follow the doc's "Processing more duets" runbook: it covers where the source
+tracks are, which tracks to process, setup on a new machine, and archiving to pCloud.
 
 ## pCloud library
 
