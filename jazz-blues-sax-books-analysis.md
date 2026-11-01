@@ -119,7 +119,7 @@ Now that swing-reading exists, pick up Let's Play Jazz! — but **work it slowly
 |---|---|---|---|
 | 🔍✅ **Let's Play Jazz!** (Jacobsen) | Method | Bb/Eb | Deep-read: **assumes swing-eighth reading (not taught here)**; gentle start is mostly prose, drills marked 120–180 bpm, reaches real bebop by Ch.5–6. Your Phase 2 anchor — worked slowly, back half deferred. Both editions in one book. |
 | 🔍✅ **The Essence of the Blues** (Snidero) | Etudes | Tenor | Deep-read: **intermediate → advanced**, not "easy." 10 style etudes; difficulty zig-zags by era. Listen now, play the easier ones in Phase 4, back-half in Phase 5. |
-| 🔍 **Reading Jazz** (Rizzo) | Reading | Bb/Tenor | 30 duets, rhythm-reading from quarter notes up to a 12-bar blues. No improv. *(free PDF on hand)* |
+| 🔍✅ **Reading Jazz** (Rizzo) | Reading | Bb/Tenor | 30 duets, rhythm-reading from quarter notes up to a 12-bar blues. No improv. Owned — with the play-along CD (all 30 duets channel-split + sax-removed). |
 | 🔍 **Jazz Phrasing for Saxophone 1** (Fishman) | Phrasing | Alto/Tenor | Deep-read: **beginner → intermediate** (cover says "Beginning-Intermediate"). 10 written tunes; easy through #3, clearly intermediate from #4 (*Belden*, 56-bar bossa, b9 chords). Written material to absorb, not an improv method. *(free PDF on hand)* |
 | **Jazz Phrasing for Saxophone 2** | Phrasing | Alto/Tenor | Themed exercises + rhythm-section play-alongs. |
 | **Reading Key Jazz Rhythms** | Reading | Tenor/Soprano | 24 easy-to-medium etudes for swing phrasing & articulation. |

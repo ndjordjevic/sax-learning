@@ -173,7 +173,9 @@ Everything lands in `extracted-audio/`:
 | `_PartII_right.mp3` | sax Part II + rhythm |
 | `_PartI_NOSAX.mp3` | rhythm section only (sax removed, subtraction method) |
 
-Done so far: **Duets 1–6** fully processed — channel-split *and* sax-removed.
+Done: **all 30 duets** (Duets 1–6 on 2026-08-06, Duets 7–30 on 2026-11-01) fully processed — channel-split *and* sax-removed. Nothing left to run; the runbook below is for regenerating `extracted-audio/` on a new machine.
+
+**pCloud archive status:** Duets 1–6 copied. Duets 7–30 **pending** — the mount was down on 2026-11-01; copy the 72 `_Part*` files for tracks 21–79 from a machine that has them, or regenerate.
 
 Measured optimal gain per track (all comfortably in the healthy 0.9–1.15 band):
 
@@ -185,6 +187,30 @@ Measured optimal gain per track (all comfortably in the healthy 0.9–1.15 band)
 | 4 | Pop It! | 1.018 |
 | 5 | Slip 'N Slide | 1.035 |
 | 6 | One More Time | 1.045 |
+| 7 | Same Lick – Different Look | 1.041 |
+| 8 | Skippin' | 1.048 |
+| 9 | Two Short – Not Too Short | 1.047 |
+| 10 | The Frondescence of Fall | 1.029 |
+| 11 | A Little Minor Blooze | 1.055 |
+| 12 | A Ol' Ian | 1.057 |
+| 13 | Restin' Fore and Aft | 1.044 |
+| 14 | Say It Again Virginia D. | 1.054 |
+| 15 | Two Brothers | 1.039 |
+| 16 | Two Others | 1.049 |
+| 17 | Cha-Da | 1.046 |
+| 18 | Bleu Skies | 1.086 |
+| 19 | Just for Jack | 1.048 |
+| 20 | Egual Octavo | 1.073 |
+| 21 | Bright Eyes | 1.053 |
+| 22 | Barbara's Blues | 1.046 |
+| 23 | Jersey's Bounce | 1.034 |
+| 24 | Kickin' It Around | 1.060 |
+| 25 | Charlie Jack | 1.047 |
+| 26 | September's Song | 1.034 |
+| 27 | Sippimissi Mud | 1.052 |
+| 28 | Melody for Michelle | 1.034 |
+| 29 | Lull-A-Byin' Rhythm | 1.031 |
+| 30 | Triplication | 1.039 |
 
 Only the **Part I (left)** channel is sax-removed, and that is sufficient: left minus Sax I
 and right minus Sax II both yield the same thing — the rhythm section, which sits on both
