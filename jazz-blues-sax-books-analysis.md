@@ -8,13 +8,13 @@
 
 ## 📍 Where I am now (progress tracker)
 
-**Current level:** Advanced beginner on the horn, **just started jazz** — in Phase 1, on Reading Jazz Duet 2, BetterSax Core Essentials done.
+**Current level:** Advanced beginner on the horn, **just started jazz** — in Phase 1, Reading Jazz Duets 1–4 done (on Duet 5), BetterSax Core Essentials done.
 - Classical fundamentals: **Rubank Elementary — done** (kept as a 1-2 lesson warmup, not tracked further). **Saxophon spielen Band 1 — done.** Phase 0 complete.
 - Plays **both tenor (Bb) and alto (Eb)** but **mainly practices tenor** — prioritize Bb/tenor editions.
 
 **Study-plan progress** — tick these off as you go:
 - [x] **Phase 0** — ~~Finish Rubank Elementary~~ ✅ · ~~finish Saxophon spielen Band 1~~ ✅
-- [ ] **Phase 1** (from-zero on-ramp, **in progress**) — Reading Jazz D1–6 (🔄 on Duet 2) · ~~BetterSax Core Essentials~~ ✅ · Pentatonic Foundation (⏸ skipped) · Beginner Jazz Soloing · Essential Elements **Ex.1–39** · *warmup:* Saxophon spielen Band 2 songs
+- [ ] **Phase 1** (from-zero on-ramp, **in progress**) — Reading Jazz D1–6 (✅ D1–4 · 🔄 on Duet 5) · ~~BetterSax Core Essentials~~ ✅ · Pentatonic Foundation (⏸ skipped) · Beginner Jazz Soloing · Essential Elements **Ex.1–39** · *warmup:* Saxophon spielen Band 2 songs (✅ 1–5 · 🔄 on song 6)
 - [ ] **Phase 2** (first anchor method) — Let's Play Jazz! Ch.1–4 (slow) · Reading Jazz D7–19 · Essential Elements Ex.40–82
 - [ ] **Phase 3** — Let's Play Jazz! Ch.5–6 · BetterSax Blues Foundation + Blues Language · Harmonic Foundation (concepts) · Reading Jazz D20–30 · Essential Elements Ex.101–120 · *start Essence listening tracks*
 - [ ] **Phase 4** — BetterSax Magic of Melody + Chord Tone Zone · Essential Elements Ex.83–100 (bebop, finishes book) · The Essence of the Blues (easier etudes) · Rhythm Changes Soloing Ch.1–4 · first intermediate books
@@ -40,11 +40,11 @@ Nothing here assumes prior jazz skill. **Order matters:** Reading Jazz + EE Ex.1
 
 | # | Resource | Why here |
 |---|---|---|
-| 1 | 🔍 **Reading Jazz** (Rizzo) D1–6 — 🔄 **on Duet 2** | Absolute zero (D1 = quarter notes). Pure rhythm-reading, no improv. |
+| 1 | 🔍 **Reading Jazz** (Rizzo) D1–6 — ✅ D1–4 done · 🔄 **on Duet 5** | Absolute zero (D1 = quarter notes). Pure rhythm-reading, no improv. |
 | 2 | 🔍 **BetterSax Core Essentials** — ✅ done | Tone/technique. |
 | 3 | 🔍 **Essential Elements** (Steinel) **Ex.1–39** | **Ex.1–30:** jazz articulation (Doo/Bah/Dit/Dot), accenting 2 & 4, swing 8ths, syncopation → **Ex.27 *London Bridge* = gentle first improv**. ⭐ **Ex.31–39:** jazz chords (maj7/dom7/min7) → 12-bar blues form → **guide-tone soloing on roots/3rds/7ths** — the most transferable improv skill in the library, taught nowhere else. Do 31–32 first; 37–39 depend on knowing what a 3rd and 7th are. Stop at 39 — Ex.40 on is Phase 2. ⚠️ Buy the **Bb/tenor** edition. |
 | 4 | 🔍 **Beginner Jazz Soloing** (Birch) | **The item that actually teaches soloing.** From-zero improv (1 note → 5) on minor pentatonic + blues scale; Q&A phrasing, articulation, composition, transposition. Hardest of the four — start at 60 bpm. |
-| ♪ | **Saxophon spielen Band 2** — *all songs, as warmup* | Straight continuation of Band 1 (✅ done). 26 tunes, **Tenor play-along audio on hand** (demo + play-along per song). Not jazz study — the tone/reading warmup slot alongside Rubank. |
+| ♪ | **Saxophon spielen Band 2** — *all songs, as warmup* — ✅ songs 1–5 done · 🔄 **on song 6** | Straight continuation of Band 1 (✅ done). 26 tunes, **Tenor play-along audio on hand** (demo + play-along per song). Not jazz study — the tone/reading warmup slot alongside Rubank. |
 | — | ~~Pentatonic Foundation~~ ⏸ **skipped** | Birch covers 8 of its 10 concepts at equal-or-greater depth, and it's the same 5 notes (G min pent = Bb maj pent, only the resolution differs). Sole real loss: ear-training on familiar tunes — get it free by working out *Amazing Grace*, *Don't Worry Be Happy*, *Hotel California*, *My Girl*, *A Change Is Gonna Come* by ear. Revisit only if you want video teaching or a gentler ramp. |
 
 #### 📖 Essential Elements — full phase map
