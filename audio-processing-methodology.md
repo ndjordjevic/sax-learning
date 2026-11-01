@@ -175,7 +175,7 @@ Everything lands in `extracted-audio/`:
 
 Done: **all 30 duets** (Duets 1–6 on 2026-08-06, Duets 7–30 on 2026-11-01) fully processed — channel-split *and* sax-removed. Nothing left to run; the runbook below is for regenerating `extracted-audio/` on a new machine.
 
-**pCloud archive status:** Duets 1–6 copied. Duets 7–30 **pending** — the mount was down on 2026-11-01; copy the 72 `_Part*` files for tracks 21–79 from a machine that has them, or regenerate.
+**pCloud archive status:** all 30 duets archived (3 files each, byte-verified with `cmp`, 2026-11-01).
 
 Measured optimal gain per track (all comfortably in the healthy 0.9–1.15 band):
 
