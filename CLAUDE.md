@@ -34,15 +34,13 @@ gotchas that each cost a failed attempt. `tools/remove_sax.py` is the reusable s
 notably, Demucs' `vocals` stem does *not* detect saxophone, and measuring against a
 re-encoded MP3 introduces a 1105-sample delay that masquerades as a bad separation.
 
-## pCloud sync (standing instruction)
+## pCloud library
 
 The user's book/course library lives on a pCloud Drive mount at:
 `/Users/nenaddjordjevic/pCloud Drive/iCloud-Migration/MyBookLive/Sax/`
 
-**Always sync `jazz-blues-sax-books-analysis.md` to that folder after editing it, without being asked.** Procedure:
-1. `ls` the target pCloud folder first to confirm the mount is responsive.
-2. `cp` the local file over (never `rm` first, no retry loops).
-3. `diff -q` the two copies to verify byte-identical.
-4. If the mount check fails (stale/hung), skip the sync, tell the user, and don't retry in a loop — the pCloud kext-based mount on this Mac is known to wedge under load and cannot be reasoned into working via retries.
+Source books/courses to check for "anything new" live there — audit it (`ls`, then read PDFs/course guides directly) rather than assuming the md is complete.
 
-Source books/courses to check for "anything new" live in that same pCloud folder — audit it (`ls`, then read PDFs/course guides directly) rather than assuming the md is complete.
+The md is **not** synced to pCloud; the GitHub repo is its only home.
+
+The pCloud kext-based mount on this Mac is known to wedge under load: `ls` the folder first to confirm it's responsive, and if it's stale/hung, tell the user and don't retry in a loop.
