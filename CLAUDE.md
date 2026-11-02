@@ -8,7 +8,7 @@ This is not a software project. It's the working directory for a personal saxoph
 
 ## Current skill level (update as the user progresses)
 
-- Saxophone (classical fundamentals): **Rubank Elementary Method — done** (will keep revisiting 1-2 lessons as a warmup, not for progress tracking). **Saxophon spielen – mein schönstes Hobby Band 1 — done.** Phase 0 complete; **currently in Phase 1** — Reading Jazz (Rizzo) Duets 1–4 done, on Duet 5. Working all songs from *Band 2* as warmup (tenor play-along audio is in the same pCloud folder) — songs 1–5 done, on song 6. Advanced beginner on the horn.
+- Saxophone (classical fundamentals): **Rubank Elementary Method — done** (will keep revisiting 1-2 lessons as a warmup, not for progress tracking). **Saxophon spielen – mein schönstes Hobby Band 1 — done.** Phase 0 stays open only for the Band 2 warmup (below); **currently in Phase 1** — Reading Jazz (Rizzo) Duets 1–4 done, on Duet 5. Working all songs from *Band 2* as warmup (tenor play-along audio is in the same pCloud folder) — songs 1–5 done, on song 6. Advanced beginner on the horn.
 - Jazz vocabulary: zero prior study as of this plan being written — the study plan in the md starts from absolute zero (rhythm-reading, pentatonic scale) and is phased over ~18+ months.
 - Plays both tenor (Bb) and alto (Eb), but **mainly practices tenor** — prioritize Bb/tenor editions and default to tenor when a resource offers a choice.
 

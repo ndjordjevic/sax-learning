@@ -9,14 +9,14 @@
 ## 📍 Where I am now (progress tracker)
 
 **Current level:** Advanced beginner on the horn, **just started jazz** — in Phase 1, Reading Jazz Duets 1–4 done (on Duet 5), BetterSax Core Essentials done.
-- Classical fundamentals: **Rubank Elementary — done** (kept as a 1-2 lesson warmup, not tracked further). **Saxophon spielen Band 1 — done.** Phase 0 complete.
+- Classical fundamentals: **Rubank Elementary — done** (kept as a 1-2 lesson warmup, not tracked further). **Saxophon spielen Band 1 — done.** Phase 0 runs on as warmup until Band 2 is finished.
 - Plays **both tenor (Bb) and alto (Eb)** but **mainly practices tenor** — prioritize Bb/tenor editions.
 
 **Study-plan progress** — tick these off as you go:
-- [x] **Phase 0** — ~~Finish Rubank Elementary~~ ✅ · ~~finish Saxophon spielen Band 1~~ ✅
-- [ ] **Phase 1** (from-zero on-ramp, **in progress**) — Reading Jazz D1–6 (✅ D1–4 · 🔄 on Duet 5) · ~~BetterSax Core Essentials~~ ✅ · Beginner Jazz Soloing · Essential Elements **Ex.1–39** · *warmup:* Saxophon spielen Band 2 songs (✅ 1–5 · 🔄 on song 6)
+- [ ] **Phase 0** (warmup, runs alongside Phase 1+) — ~~Finish Rubank Elementary~~ ✅ · ~~finish Saxophon spielen Band 1~~ ✅ · Saxophon spielen Band 2 (✅ 1–5 · 🔄 on song 6)
+- [ ] **Phase 1** (from-zero on-ramp, **in progress**) — Reading Jazz D1–6 (✅ D1–4 · 🔄 on Duet 5) · ~~BetterSax Core Essentials~~ ✅ · Beginner Jazz Soloing **Ch.1–8** · Essential Elements **Ex.1–39**
 - [ ] **Phase 2** (first anchor method) — Let's Play Jazz! Ch.1–4 (slow) · Reading Jazz D7–19 · Essential Elements Ex.40–82 · Easy Jazz Conception Et.1–3 · O'Neill Ch.9–18, 22
-- [ ] **Phase 3** — Let's Play Jazz! Ch.5–6 · BetterSax Blues Foundation + Blues Language · Harmonic Foundation (concepts) · Reading Jazz D20–30 · Essential Elements Ex.101–120 · Easy Jazz Conception Et.4–7, 11 · O'Neill Ch.21, 24 · *start Essence listening tracks*
+- [ ] **Phase 3** — Let's Play Jazz! Ch.5–6 · BetterSax Blues Foundation + Blues Language · Harmonic Foundation (concepts) · Reading Jazz D20–30 · Essential Elements Ex.101–120 · Easy Jazz Conception Et.4–7, 11 · O'Neill Ch.21, 24 · Beginner Jazz Soloing Ch.10 · *start Essence listening tracks*
 - [ ] **Phase 4** — BetterSax Magic of Melody + Chord Tone Zone · Essential Elements Ex.83–100 (bebop, finishes book) · Easy Jazz Conception Et.8–10, 12–15 (finishes book) · O'Neill Ch.25–26 + Parker coda (finishes book) · The Essence of the Blues (easier etudes) · Rhythm Changes Soloing Ch.1–4 · first intermediate books
 - [ ] **Phase 5** — Essence back-half etudes · Rhythm Changes Soloing (bridge/solos) · BetterSax Melodic Etudes Vol.2
 
@@ -28,12 +28,13 @@ Every **owned** resource (and every bookmarked one with a PDF on hand) was **dee
 - **Let's Play Jazz!** and **The Essence of the Blues** are both harder than their covers suggest, and both silently **assume you can already read swing-eighth lines** — a skill neither teaches. So they are *not* literal step 1.
 - The genuine **from-zero** starters are **Reading Jazz, BetterSax Core Essentials, Beginner Jazz Soloing, and Essential Elements (Ex.1–30)** — these build the swing-reading + first-improv foundation the two owned anchors take for granted.
 
-### Phase 0 — Classical foundation — ✅ **complete**
-Gave the tone, reading, and finger technique every jazz book assumes.
+### Phase 0 — Classical foundation — 🔄 **Band 2 still running as warmup**
+Gave the tone, reading, and finger technique every jazz book assumes. Band 2 carries on as the daily warmup, alongside the jazz phases, until it's finished.
 | # | Resource | Why here |
 |---|---|---|
 | 0a | **Rubank Elementary Method** — ✅ done | Basic scale/technique fluency the jazz methods take for granted. Keep revisiting 1-2 lessons as a warmup. |
-| 0b | **Saxophon spielen Band 1** — ✅ done | Consolidates reading and tone. **Band 2 now runs through Phase 1 as warmup** (see below). |
+| 0b | **Saxophon spielen Band 1** — ✅ done | Consolidates reading and tone. |
+| 0c | **Saxophon spielen Band 2** — *all songs, as warmup* — ✅ songs 1–5 done · 🔄 **on song 6** | Straight continuation of Band 1. 26 tunes, **Tenor play-along audio on hand** (demo + play-along per song). Not jazz study — the tone/reading warmup slot alongside Rubank, played in parallel with the jazz phases until finished. |
 
 ### Phase 1 — From-zero jazz on-ramp (weeks 1–10) — 🔄 **in progress**
 Nothing here assumes prior jazz skill. **Order matters:** Reading Jazz + EE Ex.1–30 together first (same skill from two angles), *then* Birch — its Ch.4 assumes exactly that swing-rhythm reading. EE Ex.31–39 (chords → guide tones) comes last, late in the phase. All at once is too much.
@@ -43,8 +44,7 @@ Nothing here assumes prior jazz skill. **Order matters:** Reading Jazz + EE Ex.1
 | 1 | 🔍 **Reading Jazz** (Rizzo) D1–6 — ✅ D1–4 done · 🔄 **on Duet 5** | Absolute zero (D1 = quarter notes). Pure rhythm-reading, no improv. |
 | 2 | 🔍 **BetterSax Core Essentials** — ✅ done | Tone/technique. |
 | 3 | 🔍 **Essential Elements** (Steinel) **Ex.1–39** | **Ex.1–30:** jazz articulation (Doo/Bah/Dit/Dot), accenting 2 & 4, swing 8ths, syncopation → **Ex.27 *London Bridge* = gentle first improv**. ⭐ **Ex.31–39:** jazz chords (maj7/dom7/min7) → 12-bar blues form → **guide-tone soloing on roots/3rds/7ths** — the most transferable improv skill in the library, taught nowhere else. Do 31–32 first; 37–39 depend on knowing what a 3rd and 7th are. Stop at 39 — Ex.40 on is Phase 2. ⚠️ Buy the **Bb/tenor** edition. |
-| 4 | 🔍 **Beginner Jazz Soloing** (Birch) | **The item that actually teaches soloing.** From-zero improv (1 note → 5) on minor pentatonic + blues scale; Q&A phrasing, articulation, composition, transposition. Hardest of the four — start at 60 bpm. |
-| ♪ | **Saxophon spielen Band 2** — *all songs, as warmup* — ✅ songs 1–5 done · 🔄 **on song 6** | Straight continuation of Band 1 (✅ done). 26 tunes, **Tenor play-along audio on hand** (demo + play-along per song). Not jazz study — the tone/reading warmup slot alongside Rubank. |
+| 4 | 🔍 **Beginner Jazz Soloing** (Birch) **Ch.1–8** | **The item that actually teaches soloing.** **Ch.1–6** = Birch's six steps: from-zero improv (1 note → 5), minor pentatonic + blues scale, scale patterns, rhythmic phrasing, melodies, Q&A phrasing. **Ch.7** = solo over 5 backings (bossa, swing, pop, minor blues, major blues). **Ch.8** = jazz articulation; it repeats EE's Doo/Bah/Dit/Dot work, so go through it quickly. Hardest of the four, so start at 60 bpm. **Phase 1 exit test:** improvise a coherent chorus over the Ch.7 backings. *Ch.9 (composition) is optional, any time; Ch.10 (ii-V-I, other keys) → Phase 3.* |
 
 #### 📖 Essential Elements — full phase map
 🔍 All 33 pages deep-read. **Spans Phases 1–4** — 120 exercises, from "what is a swing 8th" to bebop enclosure. **Ex.31** starts chord theory (real conceptual step up); the **Phase 1/2 boundary is Ex.40**, since 31–39 is worth pulling into late Phase 1 for the guide tones. Unique in the library: guide tones, **paraphrase improv** (decorate the melody, don't run a scale), Doo/Bah/Dit/Dot, bebop vocabulary, Mixolydian/Dorian. Never teaches the pentatonic scale.
@@ -81,6 +81,7 @@ Now that swing-reading exists, pick up Let's Play Jazz! — but **work it slowly
 | 10 | 🔍 **Reading Jazz** D20–30 | Finish it: even eighths, triplets, Charleston figures, ending on a 12-bar blues. |
 | 10a | 🔍 **Easy Jazz Conception** Et.4–7, 11 | Where the book gets harder: *Hot and Humid* (126, dense 8ths, turns, palm D), *Rock On* (straight-8th rock, triplets), *Important Events* (modal, ♩=165), *Shufflin' in F* (shuffle 150, triplets), *Caliente Blues* (Latin→swing). Pairs well with the BetterSax blues modules. |
 | 10c | 🔍 **O'Neill** Ch.21, 24 | Scale construction + cycle of 4ths, full-range scales in all keys (Ch.21); **harmony**: diatonic 7ths, chord symbols, **ii-V-I**, guide-tone voice-leading on *Fall '90* (Ch.24). Palm keys to high F♯ (Ch.19–20) come in along the way. |
+| 10d | 🔍 **Beginner Jazz Soloing** Ch.10 *(finishes book)* | Minor pentatonics over a **ii-V-I** (one per chord), then other keys. Pair it with O'Neill Ch.24 / Terefenko Ch.6 on the same progression. Ch.9 (composition: 4 sample tunes + how to write your own) is optional, whenever you feel like it. |
 | 10b | 🔍 **Essential Elements** Ex.101–120 | Even 8ths vs swing, Latin/rock, *Salsa Caliente*, **Dorian mode** from the min7 chord. |
 | listen | 🔍 **The Essence of the Blues** — *listening tracks only* | Start absorbing Eric Alexander's phrasing by ear now. **Don't try to play the etudes yet** (see Phase 4). |
 | ref | 🔍 **Terefenko** Ch.6 (ii-V-I), 7 (Modes), 9 (Blues) | The theory behind what BetterSax/Essence teach by ear. |
@@ -114,7 +115,7 @@ Now that swing-reading exists, pick up Let's Play Jazz! — but **work it slowly
 ### Beginner
 | Book | Type | Sax | Notes |
 |---|---|---|---|
-| 🔍✅ **Beginner Jazz Soloing for Sax & Clarinet** (Birch) | Method | Alto/Tenor | 6-step ear-first guide, one pentatonic scale, from zero. 153 audio examples. Owned. |
+| 🔍✅ **Beginner Jazz Soloing for Sax & Clarinet** (Birch) | Method | Alto/Tenor | 6-step ear-first guide, one pentatonic scale, from zero. 153 audio examples. Owned. Split: Ch.1–8 Phase 1, Ch.10 Phase 3, Ch.9 optional. |
 | 🔍 **Essential Elements for Jazz Ensemble** | Method | **Tenor (Bb) — to buy**; alto copy on disk | **Spans Phases 1–4, not a single-level book** — "what is a swing 8th" → bebop enclosure. 120 exercises + 7 band charts. Unique in the library: **guide-tone soloing**, **paraphrase improv**, Doo/Bah/Dit/Dot articulation, bebop vocabulary, Mixolydian/Dorian. Never teaches the pentatonic scale. Phase-map in Ch.1; edition warning in horn/key notes. |
 | **The Jazz Method for Saxophone** (O'Neill, no449777) | Method | Tenor | *Likely a newer edition of the O'Neill method you already own (below) — check before buying.* "From your first notes" — a true from-scratch beginner method; 2+ hrs audio. Publisher-verified **beginner** (was easy–intermediate). |
 
