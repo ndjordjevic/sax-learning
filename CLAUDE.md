@@ -8,7 +8,7 @@ This is not a software project. It's the working directory for a personal saxoph
 
 ## Current skill level (update as the user progresses)
 
-- Saxophone (classical fundamentals): **Rubank Elementary Method — done** (will keep revisiting 1-2 lessons as a warmup, not for progress tracking). **Saxophon spielen – mein schönstes Hobby Band 1 — done.** Phase 0 stays open only for the Band 2 warmup (below); **currently in Phase 1** — Reading Jazz (Rizzo) Duets 1–4 done, on Duet 5. Working all songs from *Band 2* as warmup (tenor play-along audio is in the same pCloud folder) — songs 1–5 done, on song 6. Advanced beginner on the horn.
+- Saxophone (classical fundamentals): **Rubank Elementary Method — done** (will keep revisiting 1-2 lessons as a warmup, not for progress tracking). **Saxophon spielen – mein schönstes Hobby Band 1 — done.** Phase 0 stays open only for the Band 2 warmup (below); **currently in Phase 1** — Reading Jazz (Rizzo) Duets 1–4 done, on Duet 5. Working all songs from *Band 2* as warmup (tenor play-along audio is in the same pCloud folder) — audio songs 1–5 done, on #6 *Guantanamera* (counted in audio-track order; 26 of the book's 44 pieces have audio). Advanced beginner on the horn.
 - Jazz vocabulary: zero prior study as of this plan being written — the study plan in the md starts from absolute zero (rhythm-reading, pentatonic scale) and is phased over ~18+ months.
 - Plays both tenor (Bb) and alto (Eb), but **mainly practices tenor** — prioritize Bb/tenor editions and default to tenor when a resource offers a choice.
 
@@ -18,7 +18,7 @@ When the user reports finishing a book, course module, or phase, update **both**
 
 `jazz-blues-sax-books-analysis.md` is the single source of truth. Structure (keep it to these parts — resist re-fragmenting it):
 - **📍 Where I am now** — current level + a phase-by-phase progress-tracker checklist.
-- **Chapter 1 — Study Plan** — the phased (Phase 1–5) sequence of every owned resource, ordered by real difficulty.
+- **Chapter 1 — Study Plan** — the "Daily tracks" table (fundamentals, ear training, listening, tunes by ear, transcription, playing with others — they run through every phase), then the phased (Phase 0–5) sequence of every owned resource, ordered by real difficulty. Rule: max 2–3 book streams per day.
 - **Chapter 2 — Books** — grouped by level (Beginner → Advanced), with a final "Repertoire to play" sub-list; `✅` marks owned.
 - **Chapter 3 — Courses** — the BetterSax Foundations video course, module-by-module.
 - **Notes on horn/key** — tenor Bb vs alto Eb guidance per title.
