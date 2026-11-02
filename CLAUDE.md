@@ -34,12 +34,19 @@ gotchas that each cost a failed attempt. `tools/remove_sax.py` is the reusable s
 notably, Demucs' `vocals` stem does *not* detect saxophone, and measuring against a
 re-encoded MP3 introduces a 1105-sample delay that masquerades as a bad separation.
 `extracted-audio/` is git-ignored. All 30 duets are processed. All are archived in the
-pCloud `Reading_JazzTenorSax-Audio-audioFiles` folder; if a machine needs them, copy them from there. To regenerate from scratch, follow the doc's "Processing more duets" runbook.
+pCloud folder `2 Jazz Methods & Etudes/Reading Jazz - Tenor Sax - Jacques Rizzo (Alfred, 1996)/Audio/`; if a machine needs them, copy them from there. To regenerate from scratch, follow the doc's "Processing more duets" runbook.
 
 ## pCloud library
 
 The user's book/course library lives on a pCloud Drive mount at:
 `/Users/nenaddjordjevic/pCloud Drive/iCloud-Migration/MyBookLive/Sax/`
+(on the Linux machine: `~/pCloudDrive/iCloud-Migration/MyBookLive/Sax/`).
+
+Layout (reorganized 2026-11-02):
+- `1 Classical Methods & Fundamentals/`, `2 Jazz Methods & Etudes/`, `3 Theory/`, `4 Video Courses/`, `5 Gear/`.
+- File/folder naming: `Title - Author (Publisher, Year).pdf`, with an extra edition tag like `- Tenor Sax` where it matters. Duplicate scans get a ` [scan 2]` suffix.
+- A book that has audio gets its own folder holding the PDF plus `Audio/` (or `Audio - Tenor/` / `Audio - Alto/`).
+- New downloads go into the matching category folder with the same naming. Once a zip is unpacked and its contents verified, delete the zip; don't keep archive copies.
 
 Source books/courses to check for "anything new" live there — audit it (`ls`, then read PDFs/course guides directly) rather than assuming the md is complete.
 
