@@ -34,7 +34,7 @@ gotchas that each cost a failed attempt. `tools/remove_sax.py` is the reusable s
 notably, Demucs' `vocals` stem does *not* detect saxophone, and measuring against a
 re-encoded MP3 introduces a 1105-sample delay that masquerades as a bad separation.
 `extracted-audio/` is git-ignored. All 30 duets are processed. All are archived in the
-pCloud folder `2 Jazz Methods & Etudes/Reading Jazz - Tenor Sax - Jacques Rizzo (Alfred, 1996)/Audio/`; if a machine needs them, copy them from there. To regenerate from scratch, follow the doc's "Processing more duets" runbook.
+pCloud folder `2 Jazz Methods & Etudes/Reading Jazz - Alto and Tenor Sax - Jacques Rizzo (Alfred, 1996)/Audio/`; if a machine needs them, copy them from there. To regenerate from scratch, follow the doc's "Processing more duets" runbook.
 
 ## pCloud library
 

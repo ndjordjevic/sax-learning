@@ -240,7 +240,7 @@ to regenerate it is here plus `tools/remove_sax.py`.
 The original stereo CD rips live in the user's pCloud library:
 
 ```
-<pCloud Drive>/iCloud-Migration/MyBookLive/Sax/2 Jazz Methods & Etudes/Reading Jazz - Tenor Sax - Jacques Rizzo (Alfred, 1996)/Audio/
+<pCloud Drive>/iCloud-Migration/MyBookLive/Sax/2 Jazz Methods & Etudes/Reading Jazz - Alto and Tenor Sax - Jacques Rizzo (Alfred, 1996)/Audio/
 ```
 
 On the original Mac `<pCloud Drive>` is `/Users/nenaddjordjevic/pCloud Drive`; on another
@@ -259,7 +259,7 @@ the last track of its group, the one that is *not* a preliminary exercise:
 List the duet tunes, excluding outputs you've already made:
 
 ```bash
-SRC_DIR=".../2 Jazz Methods & Etudes/Reading Jazz - Tenor Sax - Jacques Rizzo (Alfred, 1996)/Audio"
+SRC_DIR=".../2 Jazz Methods & Etudes/Reading Jazz - Alto and Tenor Sax - Jacques Rizzo (Alfred, 1996)/Audio"
 ls "$SRC_DIR" | grep -v Preliminary_Exercise | grep -vE '_Part(I|II)_' 
 ```
 
@@ -299,7 +299,7 @@ done
    investigated (see decision 4) before it's archived. If a later duet sounds like it has
    different instrumentation, check the stem levels as described in decision 1.
 4. **Archive to pCloud.** Copy the three outputs per duet into the same
-   `.../Reading Jazz - Tenor Sax - Jacques Rizzo (Alfred, 1996)/Audio` folder, then verify each with `cmp`. `ls` the
+   `.../Reading Jazz - Alto and Tenor Sax - Jacques Rizzo (Alfred, 1996)/Audio` folder, then verify each with `cmp`. `ls` the
    folder first to make sure the mount responds, and don't retry in a loop if it's hung.
 5. **Record progress.** Update "Done so far" and add each duet's gain to the table in the
    Results archive above, then commit this doc.
