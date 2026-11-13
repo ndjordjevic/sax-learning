@@ -165,6 +165,7 @@ Rotate **2–3 streams per day**; don't run all of these in parallel.
 ### Intermediate
 | Book | Type | Sax | Notes |
 |---|---|---|---|
+| 🔍✅ **The Standards Workbook: 10 Steps for Standard Mastery** (Nathan Graybeal & Chad LB, Jazz Lesson Videos, 2024) | Workbook | **Bb** | Deep-read (225 pp): **intermediate**, drill-based, no theory chapters. A 12-page preface explains 9 steps, then every tune works through all of them, written out over its changes: (1) embellish the melody → (2) arpeggiate every chord from memory → (3) arpeggio permutations (e.g. 3-1-7-5) → (4) arpeggios up to the 9th → (5) chord scales → (6) **root + guide tones, voice-leading** → (7) two-note enclosures into guide tones → (8) linear voice-leading with bebop scales → (9) improvise with a constant rhythm, plus an improvised etude (*There Will Never Be Another You*). **20 tunes under joke titles** (copyright): *There Will Never Be Another You, All the Things You Are, Girl from Ipanema, Just Friends, Billie's Bounce, Four, Bye Bye Blackbird, Body and Soul, Black Orpheus, I Love You, Confirmation, Lullaby of Birdland, Have You Met Miss Jones, Night and Day, All of Me, Alone Together, Wave, It Could Happen to You, Giant Steps*, plus *"Dawn of Leaf"* (concert A♭, not identified). **No Autumn Leaves.** 4 tunes overlap the Playbook Vol. 1. **No audio** (use iReal Pro or the Playbook's backings) and **no plain melodies** (step 1 prints an embellished one). Steps 2–6 suit the "why notes work" goal once the Playbook's guide-tone lessons are done; steps 7–9 and *Giant Steps / Confirmation* are later. ⚠️ The download was malformed (bad `/Annots` on pp.2–13: Document Viewer showed only page 1); the pCloud copy is a repaired one. Not placed in the study plan yet. |
 | **Jazz Phrasing for Saxophone 3** (Fishman) | Phrasing | Alto/Tenor | 10 pieces, swing/bebop/bossa. Cover: **Intermediate**. |
 | **Effective Etudes for Jazz** (Carubia/Jarvis, Kendor) | Etudes | Tenor | **Vol.1** (Kendor 20693): 18 progressive etudes, ~NYSSMA jazz level 2 (easy–intermediate). Vol.2 (20712) has 20 etudes, no grade listed. |
 | **The II-V-I Progression: 80 Patterns from the Masters of the Saxophone** (David Detweiler, Advance Music 2024, ADV 7164) | Patterns | Bb & Eb sax | Licks from Mobley, Coltrane, Gordon, Rollins + 10 etudes, 56 pp. Intermediate. |
@@ -226,6 +227,17 @@ Your single most complete owned resource — a staged curriculum threading throu
 | **Magic of Melody** | Intermediate → Advanced | Parts I–II: melody-first soloing over *Just Friends* + a blues (Phase 4). **Part III etudes**: *All of Me* ♩=145, *Autumn Leaves* 170, *Confirmation* and *Donna Lee* at 200 (Phase 5, among the hardest owned material). |
 | **Chord Tone Zone** | Intermediate → Advanced | "Digital patterns" over a full Bb blues, 5 rhythm lessons on *There Will Never Be Another You*, a 2-5-1 lick, etudes on *Just Friends* and *Lady Bird* (Phase 4), *Stella* and *All the Things You Are* (Phase 5). Assumes fluent arpeggios. |
 | **Melodic Etudes / Essential Jazz Repertoire Vol.2** | Int → Advanced | Two **Shuffle Blues** etudes (Bb + F, ♩=120: Phase 4), then written solos over standards: *Fly Me to the Moon* ♩=136, *Rhythm Changes* ♩=166, *Take Five* ♩=170 in 5/4 (Phase 5). No key signatures in any etude. |
+
+### 🔍✅ BetterSax Shed (Jay Metcalf) — free bonus PDFs with the membership
+The members site's "BetterSax Shed" holds the PDFs and backing tracks that go with BetterSax's YouTube lessons. The jazz, theory, improv and technique ones were downloaded on 2026-11-13 (35 files) to pCloud `4 Video Courses/BetterSax Shed - Jay Metcalf (BetterSax)/`, in 8 section folders. Pop/Christmas song solos were skipped. The *Coltrane Triad Pattern Loop* PDF is a dead link on BetterSax's side (403).
+
+Most useful for the standards goal:
+- 🔍 **Harmonic Building Blocks (3 Jazz Standards)** (4 pp, concert key only). One page lists 11 chord patterns that make up most standards: major ii-V-I and its variants (to the IV chord, backdoor, ii-V up a minor 3rd), same chord quality moving up a 4th, minor ii-V-i, side door, I-vi-ii-V turnaround, dominant II chord, starting on the IV chord. Then lead sheets of *Autumn Leaves*, *There Will Never Be Another You* and *Just Friends* with every block labelled in Roman numerals. On tenor, read the chords a whole step up.
+- **All of Me Improvisation Patterns** and **Jazz 101: Approach Tones and Enclosures** (6 pp each, in alto, tenor and concert key).
+- **Easy ii-V-I Lick** (one lick broken into fragments: scale run, enclosure…), **3 Beginner Jazz Exercises**, **5 Levels of Improvisation Over Minor Chords** (on *Ain't No Sunshine*'s three m7 chords, concert key).
+- **Scales You Need for Jazz** (12 scales in all 12 keys), **Major Scales in All 12 Keys**, **Music Theory Cheat Sheet**, **Transposition Guide**.
+- **Play Sax by Ear Cheatsheet** (23 pp, pentatonic melodies and improvising), pentatonic patterns and licks with backing tracks, blues improv lesson + backing track.
+- Later: altissimo charts, Chad LB's chromatic approach notes, solo transcriptions (*Mo' Better Blues*, Baptiste Herbin on *There Is No Greater Love*).
 
 ---
 
