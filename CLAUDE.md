@@ -18,7 +18,7 @@ When the user reports finishing a book, course module, or phase, update **both**
 
 `jazz-blues-sax-books-analysis.md` is the single source of truth. Structure (keep it to these parts — resist re-fragmenting it):
 - **📍 Where I am now** — current level + a phase-by-phase progress-tracker checklist.
-- **Chapter 1 — Study Plan** — the "Daily tracks" table (fundamentals, ear training, listening, tunes by ear, transcription, playing with others — they run through every phase), then the phased (Phase 0–5) sequence of every owned resource, ordered by real difficulty. Rule: max 2–3 book streams per day.
+- **Chapter 1 — Study Plan** — a short "Alongside the daily plan" list (listening, the weekly band, later habits), then Phase 0 holding the user's **daily plan** (long tones · Band 2 song · Reading Jazz duet · one method book a day rotating Birch / Playbook / Let's Play Jazz!), then the phased (Phase 0–5) sequence of every owned resource, ordered by real difficulty. Rule: max 2–3 book streams per day.
 - **Chapter 2 — Books** — grouped by level (Beginner → Advanced), with a final "Repertoire to play" sub-list; `✅` marks owned.
 - **Chapter 3 — Courses** — the BetterSax Foundations video course, module-by-module.
 - **Notes on horn/key** — tenor Bb vs alto Eb guidance per title.
@@ -30,7 +30,15 @@ Every level/verdict in the file comes from actually deep-reading the PDFs and co
 `audio-processing-methodology.md` documents how the play-along audio in `extracted-audio/`
 is made — channel-splitting duet tracks and AI sax-removal — including the four non-obvious
 gotchas that each cost a failed attempt. `tools/remove_sax.py` is the reusable script
-(needs the `.venv-demucs` virtualenv). **Read that doc before doing any new audio work**;
+(needs the `.venv-demucs` virtualenv). `tools/key_compare.py` estimates each track's concert key
+and the semitone shift between tracks (e.g. alto vs tenor play-alongs); it uses an STFT chroma
+because CQT chroma gave false "same pitch" results.
+
+Linux machine tooling (installed 2026-11-13): `ffmpeg`/`ffprobe`, `sox`, `pdftotext`/`pdftoppm`,
+`tesseract`; `.venv-demucs/` holds CPU-only torch + demucs, numpy, scipy, librosa, soundfile
+(rebuild: `python3 -m venv .venv-demucs && .venv-demucs/bin/pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu && .venv-demucs/bin/pip install demucs numpy scipy librosa soundfile`).
+pCloud folder names may use decomposed Unicode (e.g. the `ö` in *Saxophon spielen*), so
+typed paths can fail: reach those folders with a glob instead. **Read that doc before doing any new audio work**;
 notably, Demucs' `vocals` stem does *not* detect saxophone, and measuring against a
 re-encoded MP3 introduces a 1105-sample delay that masquerades as a bad separation.
 `extracted-audio/` is git-ignored. All 30 duets are processed. All are archived in the
@@ -43,7 +51,7 @@ The user's book/course library lives on a pCloud Drive mount at:
 (on the Linux machine: `~/pCloudDrive/iCloud-Migration/MyBookLive/Sax/`).
 
 Layout (reorganized 2026-11-02):
-- `1 Classical Methods & Fundamentals/`, `2 Jazz Methods & Etudes/`, `3 Theory/`, `4 Video Courses/`, `5 Gear/`.
+- `1 Classical Methods & Fundamentals/`, `2 Jazz Methods & Etudes/`, `3 Theory/`, `4 Video Courses/`, `5 Gear/`, `6 Fake Books/` (fake books in C/concert and Bb editions, incl. the 557 the weekly band uses).
 - File/folder naming: `Title - Author (Publisher, Year).pdf`, with an extra edition tag like `- Tenor Sax` where it matters. Duplicate scans get a ` [scan 2]` suffix.
 - A book that has audio gets its own folder holding the PDF plus `Audio/` (or `Audio - Tenor/` / `Audio - Alto/`).
 - New downloads go into the matching category folder with the same naming. Once a zip is unpacked and its contents verified, delete the zip; don't keep archive copies.

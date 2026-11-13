@@ -19,7 +19,7 @@
 - [ ] **Phase 3** (blues + harmony) — Let's Play Jazz! Ch.3–4 · BetterSax Blues Foundation (fast review) + Blues Language · Harmonic Foundation drills · Reading Jazz D20–30 · Essential Elements Ex.101–120 · Easy Jazz Conception Et.4–7 · O'Neill Ch.21, 24
 - [ ] **Phase 4** (changes-based playing) — BetterSax Magic of Melody Parts I–II + Chord Tone Zone + Melodic Etudes shuffle blues · Essential Elements Ex.83–100 (finishes book) · Let's Play Jazz! Ch.5–7 (finishes book) · Easy Jazz Conception Et.8–15 (finishes book) · O'Neill Ch.25–26 + Parker coda (finishes book) · The Essence of the Blues (easier etudes) · Rhythm Changes Soloing Ch.1–7 · first intermediate books
 - [ ] **Phase 5** (advanced) — Essence back-half etudes · Rhythm Changes Soloing Ch.8 + "Eternal Triangle" · Magic of Melody Part III etudes · Chord Tone Zone Stella/ATTYA etudes · Melodic Etudes standards
-- **Daily tracks** (every phase, see below) — fundamentals 10 min · ear training 5 min · listening · one tune a month by ear (from late Phase 1) · transcription (from Phase 2) · playing with others (from Phase 3)
+- **Daily plan** (see Phase 0) — long tones · Band 2 song · Reading Jazz duet · one method book a day, rotating Birch / Playbook / Let's Play Jazz!
 
 ---
 
@@ -29,23 +29,29 @@ Every **owned** resource (and every bookmarked one with a PDF on hand) was **dee
 - **Let's Play Jazz!** is built entirely on *Falling Leaves* (Autumn Leaves changes) and from Ch.3 drills ø7, 7♭9/♯9 and the **altered scale** at 120–180 bpm. It's a changes-based book, so it's spread over Phases 2–4, not used as an early anchor.
 - **The Essence of the Blues** is intermediate → advanced and assumes fluent swing-8th reading.
 - The genuine **from-zero** starters are **Reading Jazz, BetterSax Core Essentials, Beginner Jazz Soloing, and Essential Elements (Ex.1–39)**.
-- **Workload rule:** never run more than **2–3 book streams per day**. Rotate the rest across the week. The daily tracks (fundamentals, ear, listening) are separate and short.
+- **Workload rule:** never run more than **2–3 book streams per day**. Rotate the rest across the week.
 
-### 🔁 Daily tracks — run through every phase
-These were missing from the plan before the review. They are the habits every serious self-study routine includes (Aebersold, JazzAdvice, BetterSax). Each is short, and most use resources you already own.
+### 🔁 Alongside the daily plan
+- **Listening:** recordings of the tunes you're working on (start with *Autumn Leaves*: Cannonball Adderley's *Somethin' Else*, Bill Evans' *Portrait in Jazz*).
+- **Playing with others:** the weekly standards band (plays from the 557, concert pitch: read tenor a whole step up).
+- **Later, when ready:** learning tunes by ear (LPJ Ch.8 method), short transcriptions, Rubank Intermediate as reading material.
 
-| Track | Phase 1 (now) | Later |
-|---|---|---|
-| **Fundamentals** (10 min) | 🔍 Wally Wallace *Saxophone Fundamentals*: **Exercise Zero** long tones (low B♭, slurs up to palm F) + Ex.1–2. Core Essentials warm-ups. | Wallace tone + **overtone** studies (Phase 2–3) → Wallace major/minor scales in 3rds–7ths in **all keys** + arpeggios (Phase 3–4, pairs with O'Neill Ch.21 / HF drills) → Rascher *Top-Tones* overtones (Phase 3), altissimo (Phase 5; Essence needs altissimo G). |
-| **Reading warmup** | Saxophon spielen Band 2 (Phase 0) + 1–2 Rubank Elementary lessons. | When Band 2 is finished: **Rubank Intermediate** (Phases 1–3) → **Rubank Advanced Vol.1** (Phases 3–5). De Ville *Universal Method* = reference only. |
-| **Ear training** (5 min) | Free interval / chord-quality trainer (musictheory.net or teoria.com); sing roots of the blues. | **O'Neill Ch.11** (Phase 2) → **BetterSax Blues Language** = 12-key licks learned *by ear*, not read (Phase 3) → Blues Foundation "Advanced Ear Training Blues" (Phase 3). |
-| **Listening** (daily) | Start **now**: O'Neill's chapter-end "Further Study" listening lists; Easy Jazz Conception demos (Eric Alexander). | Essence of the Blues tracks (Phase 3+), the original recordings behind every tune you learn. |
-| **Tunes by ear** (1 per month) | From **late Phase 1**: learn one tune from a recording, memorize it, then move it to 2–3 keys. | Starter list: *C Jam Blues*, *Sonnymoon for Two*, *Tenor Madness*, *Blue Monk*, *Doxy*, *St Thomas*, *Summertime*, *Autumn Leaves*. Learn *Blue Monk*, *Doxy*, *St Thomas* by ear **before** reading them in O'Neill. From Phase 2 use **Let's Play Jazz! Ch.8** ("how to learn a new standard", 8 steps) as the method. |
-| **Transcription** | — | Phase 2: sing/play 2–4-bar fragments of each Easy Jazz Conception demo **before** reading the etude. Phase 3: Blues Foundation "Transcribe This?!" + one short solo (Miles on *Freddie Freeloader* or Rollins on *Tenor Madness*). Phase 4+: one solo per quarter. |
-| **Playing with others** | — | From Phase 3: a community big band (EE *is* a jazz-ensemble method) or a blues jam. |
+### Phase 0 — Daily plan + classical foundation — 🔄 **current routine**
 
-### Phase 0 — Classical foundation — 🔄 **Band 2 still running as warmup**
-Gave the tone, reading, and finger technique every jazz book assumes. Band 2 carries on as the daily warmup, alongside the jazz phases, until it's finished.
+**Daily plan** (set 2026-11-13):
+1. **Long tones**, a simple warm-up.
+2. **Saxophon spielen Band 2**: play the next song as written. Then, over its backing track, try on its printed chords whatever scales/arpeggios the method books (step 4) have taught so far.
+3. **Reading Jazz**, alternating days:
+   - **Day A:** play the duet as written (rhythm, articulation).
+   - **Day B:** simple improvising over the rhythm section, outlining the chord changes with arpeggios and scales.
+   - No chords are printed, so work them out per duet. Done so far: *First Time* (tenor E minor: Em · A7 · B7 · C).
+4. **One method book per day, rotating**, each continuing where it left off:
+   - **Beginner Jazz Soloing** (Birch) is the intro to improvising and the gentlest of the three.
+   - **The Jazz Standards Playbook Vol. 1** teaches guide tones and chord tones.
+   - **Let's Play Jazz!** gets steep from Ch.3; slow down there or let the Playbook lead.
+
+**Rule:** use what the method books teach on Dirko and Reading Jazz. That keeps it to 3 books a day (Dirko + Reading Jazz + one method book).
+
 | # | Resource | Why here |
 |---|---|---|
 | 0a | **Rubank Elementary Method** — ✅ done | Basic scale/technique fluency the jazz methods take for granted. Keep revisiting 1-2 lessons as a warmup. |
@@ -145,8 +151,9 @@ Rotate **2–3 streams per day**; don't run all of these in parallel.
 | Book | Type | Sax | Notes |
 |---|---|---|---|
 | 🔍✅ **Let's Play Jazz!** (Martin Jacobsen, Advance Music 2025) | Method | Bb/Eb | Deep-read: Jacobsen's own workbook (follow-up to his *Let's Speak Jazz!*), **8 chapters, all built on one tune**, *Falling Leaves* (Autumn Leaves changes, concert G minor). Ch.1–2 reading + the head; Ch.3–4 chord/scale/arpeggio drills incl. ø7, 7♭9/♯9 and the altered scale at 120–180 bpm; Ch.5–6 bebop, superimposition, tritone subs; Ch.7 other keys; Ch.8 how to learn a new standard. Audio: 6 tracks (head, play-alongs, easy chorus ♩=120, advanced choruses), using the rhythm section from Snidero's *Jazz Conception* series. Schott: easy–intermediate (Grade 3), but Ch.3+ is changes-based. Spread over Phases 2–4. Both editions in one book. |
+| 🔍✅ **The Jazz Standards Playbook Vol. 1** (Brent Vaartstra, Learn Jazz Standards, 2018) | Method | **Bb + Eb** (both PDFs) | Deep-read (193 pp): **easy → intermediate, theory-led**. 10 "Master Standards": *Autumn Leaves, Blue Bossa, All of Me, It Could Happen to You, Sweet Georgia Brown, So What, On Green Dolphin Street, Have You Met Miss Jones, All the Things You Are, Stella by Starlight* — 9 of 10 are in the band's 557 book (*So What* isn't in its index). Opens with the **LIST** ear method (Listen, Internalize, Sing, Transfer). Each study = suggested recordings + **chord map** (chord tones) + **guide-tone chart** + Roman-numeral **chords analysis** + one improv lesson: guide tones → using the melody → **chord tones** → composing melodies → cycling dominants → modes → motifs → diminished licks → composed solo → **note maps** (chord-scale per chord on *Stella*). Exercises start in half/quarter notes (guide tones, chord tones) and grow to 8th-note composed solos (*ATTYA*, *So What* "Miles style"). **No melodies printed** (copyright): learn heads by ear or from the 557. Common concert keys, e.g. *Autumn Leaves* concert G minor = tenor A minor, same as the band. Audio: 3 backing-track mixes per tune (bass+drums, drums+piano, piano trio) + demo tracks of every exercise. Bought 2026-11 for the weekly standards band; pairs with *Let's Play Jazz!* (same tune, same key, for Study #1). Vols. 2–4 (10 tunes each, $29/vol) not owned. |
 | 🔍✅ **The Essence of the Blues** (Snidero) | Etudes | Tenor | Deep-read: **intermediate → advanced**, not "easy." 10 style etudes; difficulty zig-zags by era. Listen now, play the easier ones in Phase 4, back-half in Phase 5. |
-| 🔍✅ **Reading Jazz** (Rizzo) | Reading | Bb/Tenor + Eb/Alto | 30 duets, rhythm-reading from quarter notes up to a 12-bar blues. No improv. Owned — tenor **and alto** editions, with the play-along CD (all 30 duets channel-split + sax-removed). The alto edition is the same duets at the **same concert pitch** (e.g. *First Time*: tenor G major = alto D major = concert F) with an identical CD track list and timings, so the same audio serves both horns. |
+| 🔍✅ **Reading Jazz** (Rizzo) | Reading | Bb/Tenor + Eb/Alto | 30 duets, rhythm-reading from quarter notes up to a 12-bar blues. No improv. Owned — tenor **and alto** editions, with the play-along CD (all 30 duets channel-split + sax-removed). The alto edition is the same duets at the **same concert pitch** (e.g. *First Time*: tenor E minor = alto B minor = concert D minor) with an identical CD track list and timings, so the same audio serves both horns. |
 | 🔍 **Jazz Phrasing for Saxophone 1** (Fishman) | Phrasing | Alto/Tenor | Deep-read: **beginner → intermediate** (cover says "Beginning-Intermediate"). 10 written tunes; easy through #3, clearly intermediate from #4 (*Belden*, 56-bar bossa, b9 chords). Written material to absorb, not an improv method. *(free PDF on hand)* |
 | 🔍✅ **Easy Jazz Conception** (Snidero) | Etudes | **Tenor + Alto** (both PDFs) | Deep-read: **easy–intermediate, not beginner**. "Easy" only means easier than Snidero's *Jazz Conception*. 15 two-page etudes, swing/blues/bossa/rock/waltz, ♩=108→165, written range low C♯ (subtone) to palm E♭, no altissimo. Etudes 1–10 are fully marked (tenuto/marcato); 11–15 are "real charts" with few markings. Jazz harmony (alt, ♭9/♯11) from Et.2. Phases 2–4. **Tenor MP3 pack owned** (all 32 tracks: Eric Alexander demos + rhythm-section-only play-alongs). |
 | 🔍✅ **The Jazz Method for Tenor Saxophone** (O'Neill, Schott ED 12420, 1992, the 69-track CD edition = no38661) | Method | Tenor | Deep-read (99 pp): **beginner → low intermediate**, not intermediate. 26 chapters: from assembling the horn (first note B) up to 16th notes, low B♭–high F♯, ii-V-I, and Monk/Rollins/Silver/Parker heads. Improv stays scale-over-vamp (pentatonic, blues, Dorian), ~6 solo sections. Unique: an **ear-training chapter**, real tunes, rich listening lists. Supplement for Phases 2–4 (Ch.1–9 and 13–15 skipped as repeats). CD (69 tracks, sax panned to one channel) **not on hand**; the revised edition (above) has online audio. |
@@ -226,7 +233,7 @@ Your single most complete owned resource — a staged curriculum threading throu
 
 You own both but **mainly practice tenor** — so **prioritize Bb/tenor editions** and default to tenor when a book offers a choice. Alto material is secondary but still usable. Guides:
 - **Both keys included:** *Let's Play Jazz! / Let's Speak Jazz!* (Bb/Eb), *Sax Solos Over Jazz Standards*, *The II-V-I Progression: 80 Patterns*, *Beginner Jazz Soloing*, *Rhythm Changes Soloing*, BetterSax (all modules), *The Jazz Saxophone Book*, *Complete Jazz Sax Book*.
-- **Owned in both editions:** *Easy Jazz Conception*. Same 15 etudes, order and track numbers. Use the tenor book. The alto edition's CD soloist is Snidero himself, and its cover misprints "21 etudes".
+- **Owned in both editions:** *The Jazz Standards Playbook Vol. 1* (Bb + Eb PDFs; audio is one shared set at concert pitch). *Easy Jazz Conception*. Same 15 etudes, order and track numbers. Use the tenor book. The alto edition's CD soloist is Snidero himself, and its cover misprints "21 etudes".
 - **Tenor/soprano (Bb) only** — use your tenor: the rest of the Snidero *Conception*/*Essence* family, both O'Neill *Jazz Methods*, Dennis Taylor *Jazz Saxophone*, the Getz transcriptions.
 - **Alto (Eb) practice:** *Jazz Phrasing 1–3*, *Jazz Classics (alto)*, *Jazz Ballads*, *Jazz & Blues*, *Play-Along Jazz With A Jazz Trio*.
 - ⚠️ **Essential Elements — buy the Bb/tenor edition.** The copy on disk is **Alto (Eb)**: it reads G7 for a Bb-concert blues, so played on tenor it sounds a whole tone off the accompaniment. The tenor book reads C7. Alto copy is still fine for reading the concepts, but it has **no audio**. Tenor edition: HL 00841348 / ISBN 9780793596225 (Hal Leonard shows it back-ordered; try Presto, Stretta or Long & McQuade).

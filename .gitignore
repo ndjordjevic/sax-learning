@@ -1,5 +1,5 @@
 # Python virtualenv for Demucs (~730 MB, machine-specific).
-# Recreate with:  python3 -m venv .venv-demucs && pip install demucs numpy
+# Recreate: see CLAUDE.md "Linux machine tooling" (CPU torch + demucs + librosa)
 .venv-demucs/
 
 # Practice audio derived from commercial CDs (Alfred Music, etc.).
@@ -9,3 +9,10 @@ extracted-audio/
 
 # macOS
 .DS_Store
+
+# Python bytecode
+__pycache__/
+
+# Book pages with chord symbols added (scans of copyrighted books).
+# Personal use only, never pushed to GitHub.
+annotated-scores/
