@@ -33,7 +33,7 @@ Every **owned** resource (and every bookmarked one with a PDF on hand) was **dee
 
 ### 🔁 Alongside the daily plan
 - **Listening:** recordings of the tunes you're working on (start with *Autumn Leaves*: Cannonball Adderley's *Somethin' Else*, Bill Evans' *Portrait in Jazz*).
-- **Playing with others:** the weekly standards band (plays from the 557, concert pitch: read tenor a whole step up).
+- **Playing with others:** the weekly standards band (plays from the 557, concert pitch: read tenor a whole step up). Tenor lead sheets transposed from the 557 go in pCloud `6 Fake Books/` as `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`; so far: *Autumn Leaves* (checked note-for-note against 557 p.21; 557 harmony, not the Playbook's).
 - **Hearing the changes (ear training):** learn to hear chords without the chart, all with owned material plus free web tools:
   1. Chord sounds: EE Book 1 tenor tracks 31–35 (maj7 / 7 / m7 side by side), then 36 (blues progression).
   2. Roots: sing the bass notes over the Playbook *Autumn Leaves* backing (Playbook pp.17–18), then play roots, then root + 5th (LPJ Ch.3).

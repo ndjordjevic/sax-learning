@@ -51,7 +51,7 @@ The user's book/course library lives on a pCloud Drive mount at:
 (on the Linux machine: `~/pCloudDrive/iCloud-Migration/MyBookLive/Sax/`).
 
 Layout (reorganized 2026-11-02):
-- `1 Classical Methods & Fundamentals/`, `2 Jazz Methods & Etudes/`, `3 Theory/`, `4 Video Courses/`, `5 Gear/`, `6 Fake Books/` (fake books in C/concert and Bb editions, incl. the 557 the weekly band uses).
+- `1 Classical Methods & Fundamentals/`, `2 Jazz Methods & Etudes/`, `3 Theory/`, `4 Video Courses/`, `5 Gear/`, `6 Fake Books/` (fake books in C/concert and Bb editions, incl. the 557 the weekly band uses, plus single-tune tenor lead sheets transposed from it, named `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`).
 - File/folder naming: `Title - Author (Publisher, Year).pdf`, with an extra edition tag like `- Tenor Sax` where it matters. Duplicate scans get a ` [scan 2]` suffix.
 - A book that has audio gets its own folder holding the PDF plus `Audio/` (or `Audio - Tenor/` / `Audio - Alto/`).
 - New downloads go into the matching category folder with the same naming. Once a zip is unpacked and its contents verified, delete the zip; don't keep archive copies.
