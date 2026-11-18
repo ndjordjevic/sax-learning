@@ -51,20 +51,20 @@ Every **owned** resource (and every bookmarked one with a PDF on hand) was **dee
 - Let's Play Jazz! gets steep from Ch.3; slow down there or let the Playbook lead.
 - Workload: 3 books a day at most (Band 2 or EE + Reading Jazz + the standard's book).
 
-**How to learn any standard** (from `reports/Efficient jazz standard learning.md`):
-1. **Listen:** a short playlist (one straight version: a Sinatra/Ella vocal if it has words, the original horn version if not, plus 2–3 others) until you can hum the melody.
+**How to learn any standard** (from `reports/Efficient jazz standard learning.md` + a 2026-11-18 check of 12 YouTube teacher videos):
+1. **Listen:** a short playlist (one straight version: a Sinatra/Ella vocal if it has words, the original horn version if not, plus 2–3 others) until you can hum the melody. Pick one **companion recording** (ideally a sax player) to copy phrasing from.
 2. **Sing** the melody with the recording, then without. Learn the first lyric lines if there are any.
 3. **Melody by ear** on the horn, then check it against the Bb sheet from the 557 (the band's version).
 4. **Name the map out loud:** key, form (AABA, ABAC, 16-bar, blues), the ii–V–Is and turnarounds, where similar sections differ.
-5. **Roots, then guide tones:** sing the bass roots with the recording, play the roots in time, then the 3rds and 7ths, slowly with a metronome.
+5. **Roots, then guide tones:** sing the bass roots with the recording, play the roots in time, then the 3rds and 7ths, slowly. Use a **metronome, not a backing track**, until the form is in your head. Work the **hardest section first and most** (often the bridge).
 6. **From memory:** play the melody starting from the top of each section, not only bar 1. Where you hesitate is what to work on.
 7. **At band:** read the chart the first two times, then try the head without it.
-8. **Improvise:** embellish the melody → guide tones and chord tones (Playbook) → pentatonic phrases (Birch) or one borrowed line per ii–V, over the backing tracks.
+8. **Improvise:** embellish the melody → guide tones and chord tones (Playbook) → pentatonic phrases (Birch) or a phrase copied from the companion recording's solo, over the backing tracks.
 9. **Done** when you can play the head from memory and always know where you are in the form. Then the next tune.
 
 **Keeping the repertoire:** mark band tunes learning / head from memory / solid · each session, play through the solid tune you've gone longest without (melody + roots) · next tune from the band list, Playbook tunes first, then the same family · keep up the Aebersold ear training.
 
-**Now: *Autumn Leaves*** — material: Playbook study #1 · tenor lead sheet from the 557 (`6 Fake Books/`) · our Autumn Leaves chord chart (tenor chords, guide tones, guitar shapes; PDF in the Playbook folder) · listening: Cannonball/Miles *Somethin' Else*, Bill Evans *Portrait in Jazz*, Ben Webster. Extras only this tune has (*Let's Play Jazz!*), from step 5 on: root + 5th, then arpeggios → scales → digit patterns over Play-Along 2 (Ch.3) · A minor pentatonic over Play-Along 2 after Birch Ch.1–7 · *Falling Leaves* (a new melody on the same changes, tenor chart p.9) copied from Listening Track 1 · easy solo chorus pp.30–31 (Track 4), advanced choruses (Tracks 5–6) later · improvise over Play-Along 3.
+**Now: *Autumn Leaves*** — material: Playbook study #1 · tenor lead sheet from the 557 (`6 Fake Books/`) · our Autumn Leaves chord chart (tenor chords, guide tones, guitar shapes; PDF in the Playbook folder) · listening: Cannonball/Miles *Somethin' Else* (companion recording: Cannonball), Bill Evans *Portrait in Jazz*, Ben Webster. Extras only this tune has (*Let's Play Jazz!*), from step 5 on: root + 5th, then arpeggios → scales → digit patterns over Play-Along 2 (Ch.3) · A minor pentatonic over Play-Along 2 after Birch Ch.1–7 · *Falling Leaves* (a new melody on the same changes, tenor chart p.9) copied from Listening Track 1 · easy solo chorus pp.30–31 (Track 4), advanced choruses (Tracks 5–6) later · improvise over Play-Along 3.
 
 **Weekly band:** plays from the 557 at concert pitch. Tenor lead sheets transposed from the 557 go in pCloud `6 Fake Books/` as `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`; so far: *Autumn Leaves* (checked note-for-note against 557 p.21; 557 harmony, not the Playbook's).
 
