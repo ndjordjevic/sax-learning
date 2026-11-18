@@ -66,6 +66,70 @@ Material: Playbook study #1 (why the chords, form, guide tones) · tenor lead sh
 
 **Weekly band:** plays from the 557 at concert pitch. Tenor lead sheets transposed from the 557 go in pCloud `6 Fake Books/` as `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`; so far: *Autumn Leaves* (checked note-for-note against 557 p.21; 557 harmony, not the Playbook's).
 
+**Band repertoire** (2026-11-18, from a bandmate's recordings list; 557 start page, verified on the scans · ♩ ≈ his tempo · his notes translated · **PB** = Playbook Vol. 1 study, **WB** = Standards Workbook tune):
+
+| 557 p. | Tune | ♩ | Notes |
+|---|---|---|---|
+| 7 | All Blues |  |  |
+| 8 | All of Me |  | PB WB |
+| 10 | All the Things You Are |  | PB WB |
+| 21 | Autumn Leaves | 170 | PB |
+| 36 | Black Orpheus | 150 | WB |
+| 40 | Blue Bossa | 160 | PB |
+| 44 | Blue Moon | 120 | boring |
+| 44 | Blue Monk | 100 |  |
+| 48 | Body and Soul | 60 | ballad, good; WB |
+| 51 | Bye Bye Blackbird |  | ‼️ highlighted; WB |
+| 83 | Doxy |  |  |
+| 100 | Fly Me to the Moon |  |  |
+| 108 | Georgia on My Mind |  |  |
+| 114 | The Girl from Ipanema |  | WB |
+| 120 | Groovin' High |  |  |
+| 123 | Honeysuckle Rose |  |  |
+| 127 | How High the Moon | 170 | extra |
+| 128 | How Insensitive | 115 | extra, Jobim |
+| 142 | If I Should Lose You |  |  |
+| 146 | I Got Rhythm |  |  |
+| 150 | I'll Remember April |  |  |
+| 164 | In a Mellow Tone |  |  |
+| 168 | Indiana |  |  |
+| 178 | It Could Happen to You |  | PB WB |
+| 192 | Jeepers Creepers |  |  |
+| 201 | Just Friends |  | WB |
+| 214 | Love Is Here to Stay |  |  |
+| 226 | Mack the Knife |  |  |
+| 239 | Moonglow | 110 |  |
+| 240 | Moonlight in Vermont | 66 | ballad |
+| 252 | My Little Suede Shoes | 144 | great |
+| 259 | The Nearness of You |  |  |
+| 260 | Nica's Dream | 170 | extra |
+| 265 | Night and Day |  | WB |
+| 270 | Now's the Time |  |  |
+| 272 | Oh, Lady Be Good |  |  |
+| 278 | On the Sunny Side of the Street | 110 | extra |
+| 280 | One Note Samba |  |  |
+| 290 | Perdido |  |  |
+| 308 | Satin Doll |  |  |
+| 311 | Secret Love |  |  |
+| 314 | Shiny Stockings | 120 | extra |
+| 322 | Softly, as in a Morning Sunrise | 170 | fast |
+| 326 | Someday My Prince Will Come |  |  |
+| 332 | Sonnymoon for Two | 120 | extra, Sonny Rollins |
+| 336 | Speak Low | 176 |  |
+| 342 | Stella by Starlight | 135 | totally OK; PB |
+| 350 | Summertime | 110 |  |
+| 356 | Sweet Georgia Brown | 170 | extra; PB |
+| 357 | 'S Wonderful | 130 | extra |
+| 361 | Tea for Two | 120 |  |
+| 362 | Take the A Train |  |  |
+| 373 | There Will Never Be Another You |  | WB |
+| 403 | Wave |  | WB |
+| 404 | Watermelon Man | 110 |  |
+| 422 | Willow Weep for Me |  |  |
+| 432 | You Don't Know What Love Is | 60 |  |
+
+Pick the next standard from the PB tunes first (Playbook order after *Autumn Leaves*: *Blue Bossa* → *All of Me* → *It Could Happen to You* …).
+
 **Hearing the changes (ear training)**, all with owned material plus free web tools:
 1. Chord sounds: EE Book 1 tenor tracks 31–35 (maj7 / 7 / m7 side by side), then 36 (blues progression).
 2. Roots: sing the bass notes over the Playbook *Autumn Leaves* backing (Playbook pp.17–18), then play roots, then root + 5th (LPJ Ch.3).
