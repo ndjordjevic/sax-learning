@@ -36,11 +36,11 @@ Every **owned** resource (and every bookmarked one with a PDF on hand) was **dee
 1. **Long tones.**
 2. **Saxophon spielen Band 2 / Essential Elements**, alternating days. Band 2: the next song (now #6 *Guantanamera*). EE: in order from Ex.1, stop at Ex.39.
 3. **Reading Jazz:** the next duet (now Duet 5), as written.
-4. **Jazz standard** (now *Autumn Leaves*): the 9-step recipe in Details — melody and form first, then guide tones, then improvising (Playbook, Let's Play Jazz!, Birch).
+4. **Jazz standard** (now *Autumn Leaves*): the recipe in Details — melody and form, then roots/guide tones/arpeggios while following the chart, then improvising (Playbook, Let's Play Jazz!, Birch).
 
 **Off the sax** (at the computer): ear training (Aebersold *Jazz Ear Training*) · jazz theory (BetterSax Harmonic Foundation videos 01–05) · listening · reading ahead on the next Playbook standard (*Blue Bossa*).
 
-**Weekly:** the band (557, read tenor a whole step up).
+**Weekly:** the band (557; read tenor a whole step up until the Bb edition arrives).
 
 <details>
 <summary><b>Details</b>: how to learn a standard · Autumn Leaves · ear training · notes on each item</summary>
@@ -51,20 +51,19 @@ Every **owned** resource (and every bookmarked one with a PDF on hand) was **dee
 - Let's Play Jazz! gets steep from Ch.3; slow down there or let the Playbook lead.
 - Workload: 3 books a day at most (Band 2 or EE + Reading Jazz + the standard's book).
 
-**How to learn any standard** (from `reports/Efficient jazz standard learning.md` + a 2026-11-18 check of 12 YouTube teacher videos):
+**How to learn any standard** — goal for now: **play from the chart** (557 Bb edition or iReal Pro), know where the band is, and play correct chord notes. Memorizing is not a goal. Adapted from `reports/Efficient jazz standard learning.md` + a 2026-11-18 check of 12 YouTube teacher videos.
 1. **Listen:** a short playlist (one straight version: a Sinatra/Ella vocal if it has words, the original horn version if not, plus 2–3 others) until you can hum the melody. Pick one **companion recording** (ideally a sax player) to copy phrasing from.
-2. **Sing** the melody with the recording, then without. Learn the first lyric lines if there are any.
-3. **Melody by ear** on the horn, then check it against the Bb sheet from the 557 (the band's version).
-4. **Name the map out loud:** key, form (AABA, ABAC, 16-bar, blues), the ii–V–Is and turnarounds, where similar sections differ.
-5. **Roots, then guide tones:** sing the bass roots with the recording, play the roots in time, then the 3rds and 7ths, slowly. Use a **metronome, not a backing track**, until the form is in your head. Work the **hardest section first and most** (often the bridge).
-6. **From memory:** play the melody starting from the top of each section, not only bar 1. Where you hesitate is what to work on.
-7. **At band:** read the chart the first two times, then try the head without it.
-8. **Improvise:** embellish the melody → guide tones and chord tones (Playbook) → pentatonic phrases (Birch) or a phrase copied from the companion recording's solo, over the backing tracks.
-9. **Done** when you can play the head from memory and always know where you are in the form. Then the next tune.
+2. **Sing** the melody with the recording. Knowing how it sounds makes the chart easy to follow.
+3. **Melody from the 557** (the band's version), played along with the recording.
+4. **Name the map:** key, form (AABA, ABAC, 16-bar, blues), the ii–V–Is and turnarounds. Mark section letters on the chart if needed.
+5. **Follow the chart over a backing track:** roots (root + 5th), then guide tones (3rds/7ths), then arpeggios, reading the chords and keeping your place through every section. Work the **hardest section first and most** (often the bridge).
+6. **At band:** read the chart; aim to never lose your place.
+7. **Improvise from the chart:** guide tones and chord tones (Playbook) → pentatonic phrases (Birch) → a phrase copied from the companion recording's solo.
+8. **Done** when you can follow the chart through the whole form at band and play chord tones on every change. Then the next tune.
 
-**Keeping the repertoire:** mark band tunes learning / head from memory / solid · each session, play through the solid tune you've gone longest without (melody + roots) · next tune from the band list, Playbook tunes first, then the same family · keep up the Aebersold ear training.
+**Keeping the repertoire:** mark band tunes learning / can follow / solid · each session, run through one older tune with the chart (melody + roots) · next tune from the band list, Playbook tunes first, then the same family · keep up the Aebersold ear training.
 
-**Now: *Autumn Leaves*** — progress (2026-11-18): ✅ steps 1–2 (several versions heard, melody sung in the head) · ◐ steps 3–5 from the sheet (melody, guide tones; follows the changes by ear over Playbook backing track 1) · **next:** melody and guide tones off the page, starting from each section top · say the map out loud · roots, then guide tones from memory with a metronome. Material: Playbook study #1 · tenor lead sheet from the 557 (`6 Fake Books/`) · our Autumn Leaves chord chart (tenor chords, guide tones, guitar shapes; PDF in the Playbook folder) · listening: Cannonball/Miles *Somethin' Else* (companion recording: Cannonball), Bill Evans *Portrait in Jazz*, Ben Webster. Extras only this tune has (*Let's Play Jazz!*), from step 5 on: root + 5th, then arpeggios → scales → digit patterns over Play-Along 2 (Ch.3) · A minor pentatonic over Play-Along 2 after Birch Ch.1–7 · *Falling Leaves* (a new melody on the same changes, tenor chart p.9) copied from Listening Track 1 · easy solo chorus pp.30–31 (Track 4), advanced choruses (Tracks 5–6) later · improvise over Play-Along 3.
+**Now: *Autumn Leaves*** — progress (2026-11-18): ✅ listening, melody in the head, melody and guide tones from the sheet, follows the changes by ear over Playbook backing track 1 · **next:** Let's Play Jazz! Ch.3 — root + 5th (p.12, tenor), then arpeggios, scales, digit patterns, over Play-Along 2 while following the chart. Material: Playbook study #1 · tenor lead sheet from the 557 (`6 Fake Books/`) · our Autumn Leaves chord chart (tenor chords, guide tones, guitar shapes; PDF in the Playbook folder) · listening: Cannonball/Miles *Somethin' Else* (companion recording: Cannonball), Bill Evans *Portrait in Jazz*, Ben Webster. Extras only this tune has (*Let's Play Jazz!*), steps 5–7: root + 5th, then arpeggios → scales → digit patterns over Play-Along 2 (Ch.3) · A minor pentatonic over Play-Along 2 after Birch Ch.1–7 · *Falling Leaves* (a new melody on the same changes, tenor chart p.9) copied from Listening Track 1 · easy solo chorus pp.30–31 (Track 4), advanced choruses (Tracks 5–6) later · improvise over Play-Along 3.
 
 **Weekly band:** plays from the 557 at concert pitch. Tenor lead sheets transposed from the 557 go in pCloud `6 Fake Books/` as `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`; so far: *Autumn Leaves* (checked note-for-note against 557 p.21; 557 harmony, not the Playbook's).
 
