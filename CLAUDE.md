@@ -18,7 +18,7 @@ When the user reports finishing a book, course module, or phase, update **both**
 
 `jazz-blues-sax-books-analysis.md` is the single source of truth. Structure (keep it to these parts — resist re-fragmenting it):
 - **📍 Where I am now** — current level + a phase-by-phase progress-tracker checklist.
-- **Chapter 1 — Study Plan** — a short "Alongside the daily plan" list (listening, the weekly band, later habits), then Phase 0 holding the user's **daily plan** (long tones · Band 2 song · Reading Jazz duet · one method book a day rotating Birch / Playbook / Let's Play Jazz!), then the phased (Phase 0–5) sequence of every owned resource, ordered by real difficulty. Rule: max 2–3 book streams per day.
+- **Chapter 1 — Study Plan** — Phase 0 opens with the user's **daily plan** as a short 4-item list (long tones · Band 2 / Essential Elements on alternating days · Reading Jazz duet · the current jazz standard, worked through Playbook → Let's Play Jazz! + Birch) plus one "Off the sax" line (ear training, theory, listening, next standard); all detail (the current tune's step order, ear-training steps, item notes, the Phase 0 book table) sits in a collapsed `<details>` block under it. **Keep that top list short**; put new detail inside the block. Then the phased (Phase 1–5) sequence of every owned resource, ordered by real difficulty. Rule: max 2–3 book streams per day.
 - **Chapter 2 — Books** — grouped by level (Beginner → Advanced), with a final "Repertoire to play" sub-list; `✅` marks owned.
 - **Chapter 3 — Courses** — the BetterSax Foundations video course, module-by-module.
 - **Notes on horn/key** — tenor Bb vs alto Eb guidance per title.

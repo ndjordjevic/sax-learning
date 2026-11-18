@@ -9,17 +9,17 @@
 ## 📍 Where I am now (progress tracker)
 
 **Current level:** Advanced beginner on the horn, **just started jazz** — in Phase 1, Reading Jazz Duets 1–4 done (on Duet 5), BetterSax Core Essentials done.
-- Classical fundamentals: **Rubank Elementary — done** (kept as a 1-2 lesson warmup, not tracked further). **Saxophon spielen Band 1 — done.** Phase 0 runs on as warmup until Band 2 is finished.
+- Classical fundamentals: **Rubank Elementary — done** (kept as a 1-2 lesson warmup, not tracked further). **Saxophon spielen Band 1 — done.** Phase 0 holds the daily plan; its box gets ticked once Band 2 is finished.
 - Plays **both tenor (Bb) and alto (Eb)** but **mainly practices tenor** — prioritize Bb/tenor editions.
 
 **Study-plan progress** — tick these off as you go:
-- [ ] **Phase 0** (warmup, runs alongside Phase 1+) — ~~Finish Rubank Elementary~~ ✅ · ~~finish Saxophon spielen Band 1~~ ✅ · Saxophon spielen Band 2 (✅ audio songs 1–5 · 🔄 on #6 *Guantanamera*)
+- [ ] **Phase 0** (daily plan + classical warmup) — ~~Rubank Elementary~~ ✅ (kept as a 1–2 lesson warmup) · ~~Saxophon spielen Band 1~~ ✅ · Saxophon spielen Band 2 (✅ audio songs 1–5 · 🔄 on #6 *Guantanamera*)
 - [ ] **Phase 1** (from-zero on-ramp, **in progress**) — Reading Jazz D1–6 (✅ D1–4 · 🔄 on Duet 5) · ~~BetterSax Core Essentials~~ ✅ · Beginner Jazz Soloing **Ch.1–8** · Essential Elements **Ex.1–39** · Harmonic Foundation theory videos 01–05
 - [ ] **Phase 2** (swing reading → first tunes) — Reading Jazz D7–19 · Essential Elements Ex.40–82 · Easy Jazz Conception Et.1–3 · O'Neill Ch.10–12, 16–20, 22–23 · Let's Play Jazz! Ch.1–2 (+ read Ch.8) · Beginner Jazz Soloing Ch.10
 - [ ] **Phase 3** (blues + harmony) — Let's Play Jazz! Ch.3–4 · BetterSax Blues Foundation (fast review) + Blues Language · Harmonic Foundation drills · Reading Jazz D20–30 · Essential Elements Ex.101–120 · Easy Jazz Conception Et.4–7 · O'Neill Ch.21, 24
 - [ ] **Phase 4** (changes-based playing) — BetterSax Magic of Melody Parts I–II + Chord Tone Zone + Melodic Etudes shuffle blues · Essential Elements Ex.83–100 (finishes book) · Let's Play Jazz! Ch.5–7 (finishes book) · Easy Jazz Conception Et.8–15 (finishes book) · O'Neill Ch.25–26 + Parker coda (finishes book) · The Essence of the Blues (easier etudes) · Rhythm Changes Soloing Ch.1–7 · first intermediate books
 - [ ] **Phase 5** (advanced) — Essence back-half etudes · Rhythm Changes Soloing Ch.8 + "Eternal Triangle" · Magic of Melody Part III etudes · Chord Tone Zone Stella/ATTYA etudes · Melodic Etudes standards
-- **Daily plan** (see Phase 0) — long tones · Band 2 song · Reading Jazz duet · one method book a day, rotating Birch / Playbook / Let's Play Jazz!
+- **Daily plan:** see Phase 0.
 
 ---
 
@@ -31,39 +31,61 @@ Every **owned** resource (and every bookmarked one with a PDF on hand) was **dee
 - The genuine **from-zero** starters are **Reading Jazz, BetterSax Core Essentials, Beginner Jazz Soloing, and Essential Elements (Ex.1–39)**.
 - **Workload rule:** never run more than **2–3 book streams per day**. Rotate the rest across the week.
 
-### 🔁 Alongside the daily plan
-- **Listening:** recordings of the tunes you're working on (start with *Autumn Leaves*: Cannonball Adderley's *Somethin' Else*, Bill Evans' *Portrait in Jazz*).
-- **Playing with others:** the weekly standards band (plays from the 557, concert pitch: read tenor a whole step up). Tenor lead sheets transposed from the 557 go in pCloud `6 Fake Books/` as `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`; so far: *Autumn Leaves* (checked note-for-note against 557 p.21; 557 harmony, not the Playbook's).
-- **Hearing the changes (ear training):** learn to hear chords without the chart, all with owned material plus free web tools:
-  1. Chord sounds: EE Book 1 tenor tracks 31–35 (maj7 / 7 / m7 side by side), then 36 (blues progression).
-  2. Roots: sing the bass notes over the Playbook *Autumn Leaves* backing (Playbook pp.17–18), then play roots, then root + 5th (LPJ Ch.3).
-  3. Guide tones: play and sing the 3rds/7ths from the Playbook guide-tone charts.
-  4. Quizzes: ✅ **Aebersold *Jazz Ear Training*** (owned): work Ex.1–20 in order, guess → check the Bb answer pages (pp.8–13); Ex.25 = ii-V7-I. Extra free drills: teoria.com (Seventh Chord Ear Training → Jazz Progressions, II-V-I) or the iwasdoingallright Online Ear Trainer (jazz mode).
-  5. Band tunes: sing the roots along with a recording before opening the 557, then check.
-  Next buy if wanted: Radley *The "Real Easy" Ear Training Book* (Sher). Full research: `reports/Jazz ear training resources.md`.
-- **Later, when ready:** learning tunes by ear (Playbook **LIST** method, pp.15–19), short transcriptions, Rubank Intermediate as reading material.
+### Phase 0 — Daily plan — 🔄 **current routine**
 
-### Phase 0 — Daily plan + classical foundation — 🔄 **current routine**
+1. **Long tones.**
+2. **Saxophon spielen Band 2 / Essential Elements**, alternating days. Band 2: the next song (now #6 *Guantanamera*). EE: in order from Ex.1, stop at Ex.39.
+3. **Reading Jazz:** the next duet (now Duet 5), as written.
+4. **Jazz standard** (now *Autumn Leaves*): melody → Playbook guide tones → then Let's Play Jazz! and Birch.
 
-**Daily plan** (set 2026-11-13):
-1. **Long tones**, a simple warm-up.
-2. **Saxophon spielen Band 2**: play the next song as written. Then, over its backing track, try on its printed chords whatever scales/arpeggios the method books (step 4) have taught so far.
-3. **Reading Jazz**, alternating days:
-   - **Day A:** play the duet as written (rhythm, articulation).
-   - **Day B:** simple improvising over the rhythm section, outlining the chord changes with arpeggios and scales.
-   - No chords are printed, so work them out per duet. Done so far: *First Time* (tenor E minor: Em · A7 · B7 · C).
-4. **One method book per day, rotating**, each continuing where it left off:
-   - **Beginner Jazz Soloing** (Birch) is the intro to improvising and the gentlest of the three.
-   - **The Jazz Standards Playbook Vol. 1** teaches guide tones and chord tones.
-   - **Let's Play Jazz!** gets steep from Ch.3; slow down there or let the Playbook lead.
+**Off the sax** (at the computer): ear training (Aebersold *Jazz Ear Training*) · jazz theory (BetterSax Harmonic Foundation videos 01–05) · listening · reading ahead on the next Playbook standard (*Blue Bossa*).
 
-**Rule:** use what the method books teach on Dirko and Reading Jazz. That keeps it to 3 books a day (Dirko + Reading Jazz + one method book).
+**Weekly:** the band (557, read tenor a whole step up).
+
+<details>
+<summary><b>Details</b>: Autumn Leaves order · ear training · notes on each item</summary>
+
+**Notes on the daily items**
+- Reading Jazz: as written only for now (rhythm, articulation). Add an improvise day once step 4 has given you something to try. No chords are printed, so work them out per duet. Done so far: *First Time* (tenor E minor: Em · A7 · B7 · C).
+- Birch is not tied to Autumn Leaves: work Ch.1–7 with its own backing tracks. It uses **one scale, G minor pentatonic** (+ blues scale; chords only in Ch.10). On *Autumn Leaves* the same idea is **A minor pentatonic (A C D E G) on tenor**, fits every chord but doesn't "make the changes".
+- Let's Play Jazz! gets steep from Ch.3; slow down there or let the Playbook lead.
+- Workload: 3 books a day at most (Band 2 or EE + Reading Jazz + the standard's book).
+
+***Autumn Leaves* order** — move on when a step feels easy; listening, melody and chords stay in every session.
+Material: Playbook study #1 (why the chords, form, guide tones) · tenor lead sheet from the 557 (`6 Fake Books/`) · *Let's Play Jazz!* (*Falling Leaves*, a new melody on the same changes, tenor chart p.9 + 6 tracks) · Birch · our Autumn Leaves chord chart (tenor chords, guide tones, guitar shapes; PDF in the Playbook folder).
+1. **Listen:** recordings (Cannonball/Miles *Somethin' Else*, Bill Evans *Portrait in Jazz*, Ben Webster) until you can hum the melody.
+2. **Melody:** the 557 tenor lead sheet, towards playing it from memory (this is the band's version).
+3. **Chords by heart:** our chart + the Playbook chapter; say the form (AABC) and the ii–V–I's.
+4. **Guide tones:** 3rds/7ths from the chart (Playbook), whole notes first, then a connected line.
+5. **Bass line:** root + 5th over LPJ Play-Along 2 (LPJ Ch.3).
+6. **Arpeggios → scales → digit patterns** (LPJ Ch.3), one at a time.
+7. **Pentatonic:** after Birch Ch.1–7, improvise with A minor pentatonic over LPJ Play-Along 2.
+8. ***Falling Leaves*:** learn it by copying LPJ Listening Track 1, as a model of a jazz line.
+9. **Licks and written solos:** LPJ easy chorus pp.30–31 (Track 4) first; the advanced choruses (Tracks 5–6) later.
+10. **Improvise:** over LPJ Play-Along 3, mixing guide tones, arpeggios, pentatonic and licks.
+
+**Weekly band:** plays from the 557 at concert pitch. Tenor lead sheets transposed from the 557 go in pCloud `6 Fake Books/` as `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`; so far: *Autumn Leaves* (checked note-for-note against 557 p.21; 557 harmony, not the Playbook's).
+
+**Hearing the changes (ear training)**, all with owned material plus free web tools:
+1. Chord sounds: EE Book 1 tenor tracks 31–35 (maj7 / 7 / m7 side by side), then 36 (blues progression).
+2. Roots: sing the bass notes over the Playbook *Autumn Leaves* backing (Playbook pp.17–18), then play roots, then root + 5th (LPJ Ch.3).
+3. Guide tones: play and sing the 3rds/7ths from the Playbook guide-tone charts.
+4. Quizzes: ✅ **Aebersold *Jazz Ear Training*** (owned): work Ex.1–20 in order, guess → check the Bb answer pages (pp.8–13); Ex.25 = ii-V7-I. Extra free drills: teoria.com (Seventh Chord Ear Training → Jazz Progressions, II-V-I) or the iwasdoingallright Online Ear Trainer (jazz mode).
+5. Band tunes: sing the roots along with a recording before opening the 557, then check.
+
+Next buy if wanted: Radley *The "Real Easy" Ear Training Book* (Sher). Full research: `reports/Jazz ear training resources.md`.
+
+**Later, when ready:** learning tunes by ear (Playbook **LIST** method, pp.15–19), short transcriptions, Rubank Intermediate as reading material.
+
+**Phase 0 books**
 
 | # | Resource | Why here |
 |---|---|---|
 | 0a | **Rubank Elementary Method** — ✅ done | Basic scale/technique fluency the jazz methods take for granted. Keep revisiting 1-2 lessons as a warmup. |
 | 0b | **Saxophon spielen Band 1** — ✅ done | Consolidates reading and tone. |
 | 0c | 🔍 **Saxophon spielen Band 2** — *as warmup* — ✅ audio songs 1–5 done · 🔄 **on #6 *Guantanamera*** (audio-track order) | Straight continuation of Band 1. **44 pieces in 6 levels; 26 have tenor audio** (demo + play-along, tracks 1–52), 18 classical/folk pieces have none (*to review later which of those to play*). Not just a reading book: it has swing phrasing, pentatonic/blues-scale solos, growl, subtone, fall-offs and bends, and palm keys up to high F♯ (Levels 2–3). |
+
+</details>
 
 ### Phase 1 — From-zero jazz on-ramp (weeks 1–10) — 🔄 **in progress**
 Nothing here assumes prior jazz skill. **Order:** Reading Jazz + EE Ex.1–30 together (same skill from two angles). **Birch can start alongside**: Ch.1–3 need no swing reading, and Ch.4 teaches swung vs straight 8ths itself. Watch the Harmonic Foundation theory videos **before EE Ex.31**, since Ex.37–39 need you to know what a 3rd and a 7th are. EE Ex.31–39 come last.
