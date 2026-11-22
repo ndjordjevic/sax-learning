@@ -4,26 +4,25 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this directory is
 
-This is not a software project. It's the working directory for a personal saxophone/jazz-study reference: a single markdown file, `jazz-blues-sax-books-analysis.md`, that catalogs every jazz/blues saxophone book, method, and course the user owns or has bookmarked, sorted by difficulty and cross-referenced into a study plan.
+This is not a software project. It's the working directory for a personal saxophone/jazz-study reference: a set of markdown files that catalog every jazz/blues sax book, method and course the user owns or has bookmarked, sorted by difficulty and cross-referenced into a study plan.
 
-## Current skill level (update as the user progresses)
+## Current skill level
 
-- Saxophone (classical fundamentals): **Rubank Elementary Method — done** (will keep revisiting 1-2 lessons as a warmup, not for progress tracking). **Saxophon spielen – mein schönstes Hobby Band 1 — done.** Phase 0 stays open only for the Band 2 warmup (below); **currently in Phase 1** — Reading Jazz (Rizzo) Duets 1–4 done, on Duet 5. Working all songs from *Band 2* as warmup (tenor play-along audio is in the same pCloud folder) — audio songs 1–5 done, on #6 *Guantanamera* (counted in audio-track order; 26 of the book's 44 pieces have audio). Advanced beginner on the horn.
-- Jazz vocabulary: zero prior study as of this plan being written — the study plan in the md starts from absolute zero (rhythm-reading, pentatonic scale) and is phased over ~18+ months.
-- Plays both tenor (Bb) and alto (Eb), but **mainly practices tenor** — prioritize Bb/tenor editions and default to tenor when a resource offers a choice.
+The user's level and progress are recorded **only** in `README.md` ("📍 Where I am now" + its phase checklist). Read it at the start of a session. When the user reports finishing a book, module, duet, song or phase, update that tracker (and the matching line of the daily plan). Standing facts: advanced beginner on the horn, jazz study from zero; plays tenor (Bb) and alto (Eb) but **mainly practices tenor**, so prioritize Bb/tenor editions and default to tenor when a resource offers a choice.
 
-When the user reports finishing a book, course module, or phase, update **both** this section here **and** the matching item in the md's "📍 Where I am now" progress tracker (tick the phase checkbox) so progress stays recorded in one place.
+## The files
 
-## The canonical file
+Rule: **each fact lives in one file; the others link to it.** Don't copy a book's verdict or a tune's coverage into a second place.
+- `README.md`: start page. Where I am now + phase checklist, the **daily plan** (a short 5-item list + off-the-sax + weekly band + a few notes; **keep it short**, put detail in the other files), and a file index.
+- `plan/study-plan.md`: Phases 1–5, every owned resource ordered by real difficulty. Rows say only which chapters/exercises and why in that phase; the book's full verdict lives in the library. Rule: max 2–3 book streams per day. Frozen while the daily plan is on trial.
+- `band/repertoire.md`: the 57 band tunes (557 page, tempo, notes, status) with one column per source: other owned fake books, Quartet, Tomplay, Hal Leonard play-alongs, MuseScore lead sheets; plus the backing-track apps. Answer "where do I find tune X" from here.
+- `band/how-to-learn-a-standard.md`: the step method for a band tune, ear training, chord-tone ideas for later.
+- `tunes/<tune>.md`: one file per tune being learned (progress, material, form). Add one when a tune becomes the current or next tune, and update its Status in the repertoire table.
+- `library/books.md`: owned books by level with the deep-read verdicts, the Essential Elements phase map, the owned fake books, horn/key notes. `✅`/`🔍` marks as in the README legend.
+- `library/courses.md`: BetterSax Foundations module by module, BetterSax Shed.
+- `library/wishlist.md`: everything bookmarked but not owned (levels from publisher pages), buy ideas, Hal Leonard play-along series.
 
-`jazz-blues-sax-books-analysis.md` is the single source of truth. Structure (keep it to these parts — resist re-fragmenting it):
-- **📍 Where I am now** — current level + a phase-by-phase progress-tracker checklist.
-- **Chapter 1 — Study Plan** — Phase 0 opens with the user's **daily plan** as a short 4-item list (long tones · Band 2 / Essential Elements on alternating days · Reading Jazz duet · the current jazz standard, worked through Playbook → Let's Play Jazz! + Birch) plus one "Off the sax" line (ear training, theory, listening, next standard); all detail (the current tune's step order, ear-training steps, item notes, the Phase 0 book table) sits in a collapsed `<details>` block under it. **Keep that top list short**; put new detail inside the block. Then the phased (Phase 1–5) sequence of every owned resource, ordered by real difficulty. Rule: max 2–3 book streams per day.
-- **Chapter 2 — Books** — grouped by level (Beginner → Advanced), with a final "Repertoire to play" sub-list; `✅` marks owned.
-- **Chapter 3 — Courses** — the BetterSax Foundations video course, module-by-module.
-- **Notes on horn/key** — tenor Bb vs alto Eb guidance per title.
-
-Every level/verdict in the file comes from actually deep-reading the PDFs and course guides, not publisher blurbs. When adding a new book or course, do the same: read the actual PDF (`Read` tool with a `pages` range) or the course's companion PDFs before assigning a level, then slot it into the right chapter/level and, if owned, the study plan. Prefer dispatching subagents for multi-PDF deep-reads to keep the main context lean.
+Every level/verdict for an owned resource comes from actually deep-reading the PDFs and course guides, not publisher blurbs. When adding a new book or course, do the same: read the actual PDF (`Read` tool with a `pages` range) or the course's companion PDFs before assigning a level, then add it to `library/` and, if owned, slot it into the study plan. When something is bought, move it from the wishlist to `books.md`. Prefer dispatching subagents for multi-PDF deep-reads to keep the main context lean.
 
 ## Practice-audio processing
 
@@ -56,8 +55,8 @@ Layout (reorganized 2026-11-02):
 - A book that has audio gets its own folder holding the PDF plus `Audio/` (or `Audio - Tenor/` / `Audio - Alto/`).
 - New downloads go into the matching category folder with the same naming. Once a zip is unpacked and its contents verified, delete the zip; don't keep archive copies.
 
-Source books/courses to check for "anything new" live there — audit it (`ls`, then read PDFs/course guides directly) rather than assuming the md is complete.
+Source books/courses to check for "anything new" live there — audit it (`ls`, then read PDFs/course guides directly) rather than assuming `library/` is complete.
 
-The md is **not** synced to pCloud; the GitHub repo is its only home.
+These md files are **not** synced to pCloud; the GitHub repo is its only home.
 
 The pCloud kext-based mount on this Mac is known to wedge under load: `ls` the folder first to confirm it's responsive, and if it's stale/hung, tell the user and don't retry in a loop.
