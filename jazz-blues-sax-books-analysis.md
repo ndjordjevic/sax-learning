@@ -68,6 +68,14 @@ Every **owned** resource (and every bookmarked one with a PDF on hand) was **dee
 
 **Weekly band:** plays from the 557 at concert pitch. Tenor lead sheets transposed from the 557 go in pCloud `6 Fake Books/` as `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`; so far: *Autumn Leaves* (checked note-for-note against 557 p.21; 557 harmony, not the Playbook's).
 
+**All Blues — everything owned** (2026-11-22; next band tune after *Autumn Leaves*)
+- **Charts** (`6 Fake Books/`): 557 p.7 (band chart, concert G) · Real Book Vol. 1 Bb p.18 (4-bar intro vamp written out) · AB Real Book Bb p.13 (road map, riff box, history note, solo chorus with guideline pitches) · Hal Leonard tenor score via MuseScore (intro, head, 4 written solos, coda; 3/4; view only) · Tomplay Easy/Intermediate tenor PDF (intro, head ×4, 3 written solos, ending).
+- **Playback files** (MuseScore Studio, `6 Fake Books/Lead Sheets - MuseScore community (band tunes)/`): tenor head, hand-built from the 557 + AB · tenor head + riff top notes (E–F♯–G♮–F♯) · community piano/violin version (superseded).
+- **Play-alongs:** Tomplay Easy/Intermediate tenor (bought; band with separate tracks, mute the sax, loop/tempo) · iReal Pro (bought; chord loop, concert G, Bb view; no intro vamp).
+- **Listening** (YouTube band playlist): Miles Davis *Kind of Blue* (original; Coltrane on tenor) · Miles live 1964 (George Coleman, tenor) · Oscar Brown Jr. (vocal).
+- **Form:** 12-bar blues in 6/8 (= 24 bars of 3/4 in iReal/Hal Leonard); tenor chords A7 ×4 · D7 ×2 · A7 ×2 · E7♯9 · F7♯9→E7♯9 · A7 ×2. Riff vamp before the head and between head/solos.
+- **Use:** listen to *Kind of Blue* → learn the head from the hand-built MuseScore file → play along in Tomplay → loop over iReal Pro → read the 557 at band.
+
 **Band repertoire** (2026-11-18, from a bandmate's recordings list; 557 start page, verified on the scans · ♩ ≈ his tempo · his notes translated · **PB** = Playbook Vol. 1 study, **WB** = Standards Workbook tune):
 
 | 557 p. | Tune | ♩ | Notes |
