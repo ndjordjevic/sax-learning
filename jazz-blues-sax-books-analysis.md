@@ -37,7 +37,7 @@ Every **owned** resource (and every bookmarked one with a PDF on hand) was **dee
 2. **Essential Elements and/or Saxophon spielen Band 2.** Band 2: the next song (now #6 *Guantanamera*). EE: in order from Ex.1, stop at Ex.39.
 3. **Reading Jazz:** the next duet (now Duet 5), as written.
 4. **Band standard melody — main focus:** play the melody from the 557 over a backing track (iReal Pro, Quartet…), one band tune after another, until every band tune's melody is learned. Listen to a couple of versions first.
-5. **Start improvising, slowly:** guide tones, chord tones and scale tones, using the techniques in the Playbook, Let's Play Jazz! and Birch *Rhythm Changes Soloing* (Ch.1–4 chord-tone soloing first), plus chord tones over a drone.
+5. **Start improvising, slowly** (on *Autumn Leaves* first, adding more tunes over time; end goal: open any standard, read the chords and improvise): guide tones, chord tones and scale tones, using the techniques in the Playbook, Let's Play Jazz! and Birch *Rhythm Changes Soloing* (Ch.1–4 chord-tone soloing first), plus chord tones over a drone. For each tune, also **analyze it**: the form (AABA, ABAC, blues…) and the progressions (ii–V–Is, turnarounds).
 
 **Off the sax** (at the computer): ear training (Aebersold *Jazz Ear Training*) · jazz theory (BetterSax Harmonic Foundation videos 01–05) · listening · reading ahead on the next Playbook standard (*Blue Bossa*).
 
