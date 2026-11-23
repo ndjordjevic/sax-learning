@@ -16,7 +16,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 557 p. | Tune | ♩ | Bandmate's notes | Status | Other fake books | Quartet | Tomplay | Hal Leonard | MuseScore |
 |---|---|---|---|---|---|---|---|---|---|
 | 7 | All Blues |  |  | ⏭ next | AB p.13 | 1 | Easy ✅ · V.Easy ✅ | MT3 EZ4 | ✅ + tenor head |
-| 8 | All of Me |  | PB WB |  |  | 1 | Easy | JPA128 EZ1 | ✅ |
+| 8 | All of Me |  | PB WB |  |  | 1 | — (only John Legend's pop song) | JPA128 EZ1 | ✅ |
 | 10 | All the Things You Are |  | PB WB |  |  | 1 | Easy | EZ1 | ✅ |
 | 21 | Autumn Leaves | 170 | PB | 🔄 learning | RBB | 1 | Easy | MT1 JPA128 EZ1 | ✅ |
 | 36 | Black Orpheus | 150 | WB |  |  | 1 | Easy | EZ5 | ✅ |
@@ -79,7 +79,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 
 - **iReal Pro** (iOS/Android/Mac, about €15–20, one-time; bought): **57/57** tunes are in the free forum playlist **Jazz 1460** (1,510 tunes; *Black Orpheus* is listed as *Manhã de Carnaval*). Import it from the forum *inside the app*. It's a synthetic trio: any key, any tempo, any number of choruses, and a Bb chart view, so you can always match the 557's key and start slow. **First choice.** It loops the chords only: no melody and no intros.
 - **Quartet** (real-musician recordings, about $15 per volume, no subscription; **iPhone/iPad or M-series Mac only**): change key and tempo, loop sections, set repeats, mute any instrument. Repeated choruses are copies of the same take, and very slow tempos are time-stretched. **53/57.** For the 4 missing tunes use "Blues in F" (*Now's the Time*) or "Blues (in all keys)" in B♭ (*Sonnymoon for Two*). Full list: the "A-Z Song List" PDF on quartetapp.com. Second app, for when a tune is comfortable.
-- **Tomplay** (a real band with separate bass, drums, piano and **tenor sax** tracks: mute the sax to play the part yourself; tempo and loop; scrolling score). €5.99 per score, or about 30% off in the "Real Book Jazz by Tomplay, Tenor Saxophone" collections. A full performance is about 5 minutes: intro, head ×2, 3 written solo choruses, head ×2, ending. **28/57.** ⚠️ The easier levels can be in a different key from the band (the Very Easy and Easy levels of *All Blues* are in tenor G, not A): check the key before buying.
+- **Tomplay** (a real band with separate bass, drums, piano and **tenor sax** tracks: mute the sax to play the part yourself; tempo and loop; scrolling score). €5.99 per score, or about 30% off in the "Real Book Jazz by Tomplay, Tenor Saxophone" collections. A full performance is about 5 minutes: intro, head ×2, 3 written solo choruses, head ×2, ending. **27/57.** ⚠️ Matches are by title: *All of Me* on Tomplay is only John Legend's pop song, not the jazz standard (the jazz Marks & Simons scores in their old blog post are gone from the catalog, checked 2026-11-23); check the composer before buying. ⚠️ The easier levels can be in a different key from the band (the Very Easy and Easy levels of *All Blues* are in tenor G, not A): check the key before buying.
 - Owned audio: the Playbook and *Let's Play Jazz!* backing tracks (*Autumn Leaves* etc.), Aebersold.
 
 ## Where to hear the melody
