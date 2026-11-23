@@ -1,6 +1,6 @@
 # 🎷 Jazz & Blues Sax: study plan and library
 
-Personal plan for learning jazz on tenor sax, plus a catalog of every book and course I own or have bookmarked. Levels come from deep-reading the actual PDFs. Last updated: 2026-11-22.
+Personal plan for learning jazz on tenor sax, plus a catalog of every book and course I own or have bookmarked. Levels come from deep-reading the actual PDFs. Last updated: 2026-11-23.
 
 `✅` = owned / done · `🔍` = level checked by a full deep-read · `🔄` = in progress · `⏸` = on hold / skipped.
 
@@ -34,6 +34,7 @@ Phases 1–5 in detail: [plan/study-plan.md](plan/study-plan.md). They're frozen
 - Reading Jazz: play it as written for now. Add an improvise day once step 4 has given you something to try.
 - Birch *Beginner Jazz Soloing* (pentatonics) is on hold (since 2026-11-21), so the melody and chord/guide tones come first.
 - Workload: 2–3 books a day at most.
+- Reading setup (iPad, MobileSheets, TV, pedal): [library/reading-setup.md](library/reading-setup.md), with the MobileSheets manual link.
 
 ## 📂 Files
 
@@ -45,8 +46,9 @@ Phases 1–5 in detail: [plan/study-plan.md](plan/study-plan.md). They're frozen
 | [plan/study-plan.md](plan/study-plan.md) | Phases 1–5: every owned resource in order of difficulty |
 | [library/books.md](library/books.md) | Owned books by level, with deep-read verdicts; fake books; horn/key notes |
 | [library/courses.md](library/courses.md) | BetterSax Foundations (module by module) and the BetterSax Shed PDFs |
+| [library/reading-setup.md](library/reading-setup.md) | iPad + MobileSheets + TV + BlueTurn pedal: settings that work, where the MobileSheets docs are |
 | [library/wishlist.md](library/wishlist.md) | Bookmarked but not owned: buy ideas, Hal Leonard play-alongs, books |
-| `reports/` | Deep-research reports (standard learning, ear training, melody resources) |
+| `reports/` | Deep-research reports (standard learning, ear training, melody resources, reading setups) |
 | [audio-processing-methodology.md](audio-processing-methodology.md) | How the Reading Jazz play-along audio was made |
 
 The library lives on pCloud: `~/pCloudDrive/iCloud-Migration/MyBookLive/Sax/`.

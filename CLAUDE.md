@@ -20,6 +20,7 @@ Rule: **each fact lives in one file; the others link to it.** Don't copy a book'
 - `tunes/<tune>.md`: one file per tune being learned (progress, material, form). Add one when a tune becomes the current or next tune, and update its Status in the repertoire table.
 - `library/books.md`: owned books by level with the deep-read verdicts, the Essential Elements phase map, the owned fake books, horn/key notes. `✅`/`🔍` marks as in the README legend.
 - `library/courses.md`: BetterSax Foundations module by module, BetterSax Shed.
+- `library/reading-setup.md`: the iPad + MobileSheets + TV + pedal setup, settings that work, and the link to the MobileSheets manual.
 - `library/wishlist.md`: everything bookmarked but not owned (levels from publisher pages), buy ideas, Hal Leonard play-along series.
 
 Every level/verdict for an owned resource comes from actually deep-reading the PDFs and course guides, not publisher blurbs. When adding a new book or course, do the same: read the actual PDF (`Read` tool with a `pages` range) or the course's companion PDFs before assigning a level, then add it to `library/` and, if owned, slot it into the study plan. When something is bought, move it from the wishlist to `books.md`. Prefer dispatching subagents for multi-PDF deep-reads to keep the main context lean.
@@ -50,7 +51,7 @@ The user's book/course library lives on a pCloud Drive mount at:
 (on the Linux machine: `~/pCloudDrive/iCloud-Migration/MyBookLive/Sax/`).
 
 Layout (reorganized 2026-11-02):
-- `1 Classical Methods & Fundamentals/`, `2 Jazz Methods & Etudes/`, `3 Theory/`, `4 Video Courses/`, `5 Gear/`, `6 Fake Books/` (fake books in C/concert and Bb editions, incl. the 557 the weekly band uses, plus single-tune tenor lead sheets transposed from it, named `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`).
+- `1 Classical Methods & Fundamentals/`, `2 Jazz Methods & Etudes/`, `3 Theory/`, `4 Video Courses/`, `5 Gear/`, `6 Fake Books/` (fake books in C/concert and Bb editions, incl. the 557 the weekly band uses, the whole books sit at its top level; tune-specific files (tenor lead sheets transposed from the 557, bought Tomplay/Hal Leonard sheets, hand-built MusicXML) go in `Band Tunes/<Tune>/`; the MuseScore community lead sheets stay together in `Lead Sheets - MuseScore community (band tunes)/` with their `_PROGRESS.md`).
 - File/folder naming: `Title - Author (Publisher, Year).pdf`, with an extra edition tag like `- Tenor Sax` where it matters. Duplicate scans get a ` [scan 2]` suffix.
 - A book that has audio gets its own folder holding the PDF plus `Audio/` (or `Audio - Tenor/` / `Audio - Alto/`).
 - New downloads go into the matching category folder with the same naming. Once a zip is unpacked and its contents verified, delete the zip; don't keep archive copies.

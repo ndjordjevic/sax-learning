@@ -6,20 +6,23 @@ Everything owned, collected 2026-11-22.
 - **Tenor chords:** A7 ×4 · D7 ×2 · A7 ×2 · E7♯9 · F7♯9→E7♯9 · A7 ×2 (concert G).
 - **The riff:** the vamp plays before the head and between the head and the solos. On tenor, play its top notes: E–F♯–G♮–F♯.
 
-**Charts** (`6 Fake Books/`)
+Files: the fake books are in `6 Fake Books/`; everything tune-specific is in `6 Fake Books/Band Tunes/All Blues/`.
+
+**Charts**
 - **557 p.7:** the band chart, concert G.
 - **Real Book Vol. 1** Bb p.18: the 4-bar intro vamp is written out.
 - **AB Real Book** Bb p.13: road map, riff box, history note, and a solo chorus with guideline pitches.
 - **Hal Leonard tenor score via MuseScore:** intro, head, 4 written solos, coda; in 3/4; view only, no playback.
-- **Tomplay Easy/Intermediate tenor PDF:** intro, head ×4, 3 written solos, ending.
+- **Tomplay Easy/Intermediate tenor PDF:** intro, head ×4, 3 written solos, ending. Band key (tenor A).
+- **Tomplay Very Easy tenor PDF:** same form, in tenor G (a whole step below the band; doesn't matter for practice). The head is simplified to 8ths and the 3 written solos are easier. Plan: play the whole thing, then later analyze why the solo notes work over the chords (chord tones, blues notes, the ♯9).
 
-**Playback files** (open in MuseScore Studio; `6 Fake Books/Lead Sheets - MuseScore community (band tunes)/`)
+**Playback files** (open in MuseScore Studio)
 - tenor head, hand-built from the 557 + AB Real Book;
 - tenor head + riff top notes;
-- community piano/violin version (superseded).
+- community piano/violin version (superseded; in `6 Fake Books/Lead Sheets - MuseScore community (band tunes)/`).
 
 **Play-alongs**
-- **Tomplay** Easy/Intermediate tenor (bought). It's a band with separate tracks: mute the sax, loop, change tempo.
+- **Tomplay** Easy/Intermediate and Very Easy tenor (both bought). It's a band with separate tracks: mute the sax, loop, change tempo.
 - **iReal Pro** (bought): chord loop in concert G with the Bb view. It has no intro vamp.
 
 **Listening** (YouTube band playlist)
@@ -30,6 +33,6 @@ Everything owned, collected 2026-11-22.
 **Practice order:**
 1. Listen to *Kind of Blue*.
 2. Learn the head from the hand-built MuseScore file.
-3. Play along in Tomplay.
+3. Play along in Tomplay: the whole Very Easy version (head + solos), and Easy/Intermediate.
 4. Loop over iReal Pro.
 5. Read the 557 at band.

@@ -14,7 +14,7 @@
 
 **Material**
 - **Playbook** study #1. The key is concert G minor = tenor A minor, the same as the band.
-- Tenor lead sheet from the 557 (`6 Fake Books/`). It uses the 557 harmony, not the Playbook's.
+- Tenor lead sheet from the 557 (`6 Fake Books/Band Tunes/Autumn Leaves/`). It uses the 557 harmony, not the Playbook's.
 - Our Autumn Leaves chord chart (tenor chords, guide tones, guitar shapes; PDF in the Playbook folder).
 - **Listening:**
   - Cannonball/Miles, *Somethin' Else*. This is the companion recording, Cannonball's phrasing.

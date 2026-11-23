@@ -1,6 +1,6 @@
 # Band repertoire (57 tunes)
 
-The weekly band plays from the **557 Jazz Standards** (C edition, concert pitch; a Bb edition is on order). Until it arrives, read tenor a whole step up, or use the tenor lead sheets transposed from the 557 in pCloud `6 Fake Books/`, named `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`. So far there's one: *Autumn Leaves*, checked note for note against 557 p.21.
+The weekly band plays from the **557 Jazz Standards** (C edition, concert pitch; a Bb edition is on order). Until it arrives, read tenor a whole step up, or use the tenor lead sheets transposed from the 557 in pCloud `6 Fake Books/Band Tunes/<Tune>/`, named `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`. So far there's one: *Autumn Leaves*, checked note for note against 557 p.21.
 
 Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers are checked on the scans. ♩ = the bandmate's tempo; their notes are translated. Coverage was checked 2026-11-22.
 
@@ -15,7 +15,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 
 | 557 p. | Tune | ♩ | Bandmate's notes | Status | Other fake books | Quartet | Tomplay | Hal Leonard | MuseScore |
 |---|---|---|---|---|---|---|---|---|---|
-| 7 | All Blues |  |  | ⏭ next | AB p.13 | 1 | Easy ✅ | MT3 EZ4 | ✅ + tenor head |
+| 7 | All Blues |  |  | ⏭ next | AB p.13 | 1 | Easy ✅ · V.Easy ✅ | MT3 EZ4 | ✅ + tenor head |
 | 8 | All of Me |  | PB WB |  |  | 1 | Easy | JPA128 EZ1 | ✅ |
 | 10 | All the Things You Are |  | PB WB |  |  | 1 | Easy | EZ1 | ✅ |
 | 21 | Autumn Leaves | 170 | PB | 🔄 learning | RBB | 1 | Easy | MT1 JPA128 EZ1 | ✅ |
