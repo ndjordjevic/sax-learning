@@ -38,19 +38,19 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 150 | I'll Remember April |  |  |  |  | 1 |  |  | ✅ |
 | 164 | In a Mellow Tone |  |  |  | AB p.98 | 1 |  | JPA1 EZ1 | ✅ |
 | 168 | Indiana |  |  |  | RB2 p.166 | — |  |  | ✅ |
-| 178 | It Could Happen to You |  | PB WB |  | RB2 p.172 · RBB | 1 |  | EZ2 | mxl only |
-| 192 | Jeepers Creepers |  |  |  |  | — |  | JPA176 | blocked |
-| 201 | Just Friends |  | WB |  |  | 1 |  | JPA186 | blocked |
+| 178 | It Could Happen to You |  | PB WB |  | RB2 p.172 · RBB | 1 |  | EZ2 | ✅ |
+| 192 | Jeepers Creepers |  |  |  |  | — |  | JPA176 | ✅ |
+| 201 | Just Friends |  | WB |  |  | 1 |  | JPA186 | ✅ |
 | 214 | Love Is Here to Stay |  |  |  | RB2 p.279 · SRB | 2 | other |  | ✅ |
 | 226 | Mack the Knife |  |  |  |  | 3 | other | JPA100 | ✅ |
-| 239 | Moonglow | 110 |  |  | RB2 p.243 · RBB | 1 |  | JPA106 | blocked |
-| 240 | Moonlight in Vermont | 66 | ballad |  |  | 2 |  | JPA54 | blocked |
-| 252 | My Little Suede Shoes | 144 | great |  | RB2 p.258 | 4 |  | MT4 EZ3 | blocked |
-| 259 | The Nearness of You |  |  |  | RB2 p.261 · RBB | 1 | other | JPA4 | blocked |
-| 260 | Nica's Dream | 170 | extra |  |  | 2 |  |  | — |
+| 239 | Moonglow | 110 |  |  | RB2 p.243 · RBB | 1 |  | JPA106 | ✅ |
+| 240 | Moonlight in Vermont | 66 | ballad |  |  | 2 |  | JPA54 | ✅ |
+| 252 | My Little Suede Shoes | 144 | great |  | RB2 p.258 | 4 |  | MT4 EZ3 | ✅ |
+| 259 | The Nearness of You |  |  |  | RB2 p.261 · RBB | 1 | other | JPA4 | ✅ |
+| 260 | Nica's Dream | 170 | extra |  |  | 2 |  |  | ✅ |
 | 265 | Night and Day |  | WB |  | SRB | 1 |  | JPA71 | none |
-| 270 | Now's the Time |  |  |  | RB2 p.265 | — |  | MT1 EZ4 | — |
-| 272 | Oh, Lady Be Good |  |  |  | RB2 p.271 · SRB | 1 | other |  | — |
+| 270 | Now's the Time |  |  |  | RB2 p.265 | — |  | MT1 EZ4 | ✅ |
+| 272 | Oh, Lady Be Good |  |  |  | RB2 p.271 · SRB | 1 | other |  | ✅ |
 | 278 | On the Sunny Side of the Street | 110 | extra |  |  | 1 |  | JPA126 | — |
 | 280 | One Note Samba |  |  |  |  | 1 | Easy |  | — |
 | 290 | Perdido |  |  |  | RB2 p.288 · AB p.146 | 1 |  | JPA1 | — |
