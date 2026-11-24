@@ -18,6 +18,8 @@ Files: the fake books are in `6 Fake Books/`; everything tune-specific is in `6 
 - **Tomplay Easy tenor PDF:** the same form (6-bar intro, head ×2, 3 written solo choruses, head ×2, ending; 118 bars of 6/8), in tenor G like the Very Easy one (a whole step below the band). Chords written above every change.
 - **Tomplay Very Easy tenor PDF:** same form, in tenor G (a whole step below the band; doesn't matter for practice). The head is simplified to 8ths and the 3 written solos are easier. Plan: play the whole thing, then later analyze why the solo notes work over the chords (chord tones, blues notes, the ♯9).
 
+- **Hal Leonard *Jazz Play-Along* Vol. 2, Miles Davis** (owned, pCloud `2 Jazz Methods & Etudes/Hal Leonard Jazz Play-Along Series - Various (Hal Leonard)/HLJazzPA 2 Miles Davis/`): Bb score on printed p.16 (jazz waltz feel, 2 sharps = tenor A, the band key), track 1 = melody with rhythm section, track 2 = rhythm section only. Checked on page 1 only; not compared bar by bar with the 557. The 2 score pages and the 2 tracks are extracted into `Band Tunes/All Blues/` (files named `… (Hal Leonard Jazz Play-Along Vol. 2) …`).
+
 **Playback files** (open in MuseScore Studio)
 - tenor head, hand-built from the 557 + AB Real Book;
 - tenor head + riff top notes;

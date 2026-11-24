@@ -16,6 +16,7 @@ Levels here come from publisher and retailer pages, not deep-reads.
 - **The Jazz Method for Tenor Saxophone, revised edition** (O'Neill, Schott ED 12420D, about 2021, ~136 pp). Mainly to get the **online audio** that the owned 1992 edition is missing.
 
 ## Hal Leonard play-alongs (Bb charts; Playback+ slow-down and loop)
+**Already owned:** 130 volumes of the *Jazz Play-Along* series ([song index](hal-leonard-play-along-index.md)) (score PDF with C, Bb, Eb and bass editions + MP3: melody track and backing-only track) in pCloud `2 Jazz Methods & Etudes/Hal Leonard Jazz Play-Along Series - Various (Hal Leonard)/`. The *Real Book Multi-Tracks* and *Easy Jazz Play-Along* series below are not owned, and Jazz Play-Along Vol. 128 (vocal keys) is missing from the collection.
 Which band tunes each volume has: the Hal Leonard column of [band repertoire](../band/repertoire.md).
 - **Real Book Multi-Tracks** ([series](https://www.halleonard.com/series/RBPLYA/real-book-multi-tracks-play-along?dt=item#products), $17.99–19.99, 10 tunes each). A sax or trumpet plays the head, and each instrument can be muted. **Vol. 1 *Maiden Voyage*** has 6 band tunes: the best buy.
 - **Jazz Play-Along** ([series](https://www.halleonard.com/search/search.action?dt=item&seriesFeature=JZPLYA&resultsPerPage=96#products); about 190 volumes, and that listing leaves out the older ones). The melody cue is on its own channel, plus a no-melody track. **Vol. 1 Duke Ellington** ([product](https://www.halleonard.com/product/841644), $24.99) has 4 band tunes. Vol. 128 is in vocal keys.

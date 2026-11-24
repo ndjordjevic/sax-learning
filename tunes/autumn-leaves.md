@@ -16,6 +16,10 @@
 - **Playbook** study #1. The key is concert G minor = tenor A minor, the same as the band.
 - Tenor lead sheet from the 557 (`6 Fake Books/Band Tunes/Autumn Leaves/`). It uses the 557 harmony, not the Playbook's.
 - **Tomplay Easy tenor PDF** (bought 2026-11-24; `6 Fake Books/Band Tunes/Autumn Leaves/`): 65 bars of 4/4, two choruses of the head, no written solos, chords above the changes. ⚠️ Written in tenor **E minor** (concert D minor), a fourth below the band's tenor A minor, so the chords read Am7 D7 Gmaj7 Cmaj7 F♯ø7 B7 Em6. Fine for practice with the Tomplay track; for band, read the 557 sheet above.
+- **Hal Leonard *Jazz Play-Along*** (owned, pCloud `2 Jazz Methods & Etudes/Hal Leonard Jazz Play-Along Series - Various (Hal Leonard)/`; track 1 = melody + rhythm section, track 2 = rhythm section only):
+  - **Vol. 49, Miles Davis Standards**, Bb score printed p.24: chords Am7 · Dm7 G7 Cmaj7 Fmaj7 · Bm7♭5 E7♭9, so the band's tenor A minor. Not compared bar by bar with the 557.
+  - The 2 score pages and 2 tracks of each volume are extracted into `Band Tunes/Autumn Leaves/` (files named `… (Hal Leonard Jazz Play-Along Vol. 7 / 49) …`).
+  - **Vol. 7, Essential Jazz Standards**, Bb score printed p.20: chords Bm7 E7 Amaj7 Dmaj7 · G♯m7♭5 C♯7 F♯m7, which is tenor **F♯ minor** (concert E minor), a third above the band. Fine for practice; not the band key.
 - Our Autumn Leaves chord chart (tenor chords, guide tones, guitar shapes; PDF in the Playbook folder).
 - **Listening:**
   - Cannonball/Miles, *Somethin' Else*. This is the companion recording, Cannonball's phrasing.

@@ -17,7 +17,8 @@ Files: the fake books are in `6 Fake Books/`; the tune-specific files are in `6 
 - **iReal Pro** (bought): chord loop, any key and tempo.
 - **Quartet** Vol. 1.
 - **Tomplay:** not usable. Its *All of Me* is John Legend's pop song, not the jazz standard.
-- **Hal Leonard** *Jazz Play-Along* Vol. 128 and *Easy Jazz Play-Along* Vol. 1: not owned.
+- **Hal Leonard *Jazz Play-Along*** (owned, pCloud `2 Jazz Methods & Etudes/Hal Leonard Jazz Play-Along Series - Various (Hal Leonard)/`; track 1 = melody + rhythm section, track 2 = rhythm section only): **Vol. 17, Count Basie** (Bb score printed p.18) and **Vol. 32, Best of Swing** (Bb p.20). Both are medium swing in tenor D major (2 sharps), the band's key, and open with an Em7 E♭7 D6/9 C♯7 turnaround, so the changes differ a little from the Playbook's. Not compared bar by bar with the 557. The score pages (a single spread for Vol. 17, 2 pages for Vol. 32) and the 2 tracks of each are extracted into `Band Tunes/All of Me/`.
+- *Easy Jazz Play-Along* Vol. 1 and Vol. 128 (vocal keys): not owned.
 
 **Extras only this tune has**
 - **Playbook Improv Lesson #3: using chord tones in your solos** (pp.64–69), with the chord-tone exercise recording.
