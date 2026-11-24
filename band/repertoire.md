@@ -74,7 +74,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 422    | Willow Weep for Me              |     |                      |             | RB2 p.396 · RBB      | 4       |                   |                | —              |
 | 432    | You Don't Know What Love Is     | 60  |                      |             |                      | 1       | Easy              |                | —              |
 
-**Next tune:** *All Blues* ([tune file](../tunes/all-blues.md)). After that, take Playbook tunes first (*Blue Bossa* → *All of Me* → *It Could Happen to You*…), then tunes from the same family.
+**Next tune:** *All Blues* ([tune file](../tunes/all-blues.md)). Then follow the table order: *All of Me* ([tune file](../tunes/all-of-me.md)) → *All the Things You Are* → …, with the Playbook tunes (*Blue Bossa*, *It Could Happen to You*) coming up along the way.
 
 ## Apps for backing tracks
 
