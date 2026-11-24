@@ -14,6 +14,7 @@ Files: the fake books are in `6 Fake Books/`; everything tune-specific is in `6 
 - **Real Book Vol. 1** Bb p.18: the 4-bar intro vamp is written out.
 - **AB Real Book** Bb p.13: road map, riff box, history note, and a solo chorus with guideline pitches.
 - **Hal Leonard tenor score via MuseScore:** intro, head, 4 written solos, coda; in 3/4; view only, no playback.
+- **Hal Leonard score, chord-changes version** (`... - Chord Changes Only (Hal Leonard via MuseScore, 2026).pdf`): the same pages with chord names added at the changes only (blue; the original black symbols are kept), so the head, intro and coda have chords too. Tenor A like the band. It uses Am7/Am9 where the 557 has D7 (this edition follows the Miles recording).
 - **Tomplay Easy/Intermediate tenor PDF:** intro, head ×4, 3 written solos, ending. Band key (tenor A).
 - **Tomplay Very Easy tenor PDF:** same form, in tenor G (a whole step below the band; doesn't matter for practice). The head is simplified to 8ths and the 3 written solos are easier. Plan: play the whole thing, then later analyze why the solo notes work over the chords (chord tones, blues notes, the ♯9).
 
