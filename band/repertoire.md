@@ -10,16 +10,16 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 - **Status:** 🔄 learning · ⏭ next · later: *can follow* / *solid*. Update it as tunes are learned.
 - **Other fake books** (owned, `6 Fake Books/`): RB2 = *Real Book Vol. 2* old edition, Bb (book page) · SRB = *Standards Real Book* (C; the most accurate, use it to check doubtful notes) · RBB = *Real Book of Blues* (C, vocal keys: check the key) · AB = *AB Real Book* (Bb). *Real Book Vol. 1* (Bb + C) isn't mapped here yet.
 - **Quartet:** the volume the tune was found in; — = not in Quartet.
-- **Tomplay** (tenor): Easy = has an Easy/Intermediate level · other = harder levels only. ✅ = bought.
+- **Tomplay** (tenor): Easy = has an Easy or Easy/Intermediate level · other = harder levels only. ✅ = bought (E/I = Easy/Intermediate).
 - **Hal Leonard** (not owned, see [wishlist](../library/wishlist.md)): MT = *Real Book Multi-Tracks* vol. · JPA = *Jazz Play-Along* vol. (both play the melody) · EZ = *Easy Jazz Play-Along* vol. (backing only).
 - **MuseScore:** community lead sheet (.mxl + PDF) in `6 Fake Books/Lead Sheets - MuseScore community (band tunes)/`. ✅ = downloaded · blocked / — = still to do (see `_PROGRESS.md` in that folder) · none = no usable score.
 
 | 557 p. | Tune                            | ♩   | Bandmate's notes     | Status      | Other fake books     | Quartet | Tomplay           | Hal Leonard    | MuseScore      |
 | ------ | ------------------------------- | --- | -------------------- | ----------- | -------------------- | ------- | ----------------- | -------------- | -------------- |
-| 7      | All Blues                       |     |                      | ⏭ next      | AB p.13              | 1       | Easy ✅ · V.Easy ✅ | MT3 EZ4        | ✅ + tenor head |
+| 7      | All Blues                       |     |                      | ⏭ next      | AB p.13              | 1       | V.Easy ✅ · Easy ✅ · E/I ✅ | MT3 EZ4        | ✅ + tenor head |
 | 8      | All of Me                       |     | PB WB                |             |                      | 1       |                   | JPA128 EZ1     | ✅              |
 | 10     | All the Things You Are          |     | PB WB                |             |                      | 1       | Easy              | EZ1            | ✅              |
-| 21     | Autumn Leaves                   | 170 | PB                   | 🔄 learning | RBB                  | 1       | Easy              | MT1 JPA128 EZ1 | ✅              |
+| 21     | Autumn Leaves                   | 170 | PB                   | 🔄 learning | RBB                  | 1       | Easy ✅            | MT1 JPA128 EZ1 | ✅              |
 | 36     | Black Orpheus                   | 150 | WB                   |             |                      | 1       | Easy              | EZ5            | ✅              |
 | 40     | Blue Bossa                      | 160 | PB                   |             |                      | 1       | other             | MT1            | ✅              |
 | 44     | Blue Moon                       | 120 | boring               |             | RB2 p.31             | 1       | Easy              |                | ✅              |

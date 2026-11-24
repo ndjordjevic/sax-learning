@@ -15,6 +15,7 @@
 **Material**
 - **Playbook** study #1. The key is concert G minor = tenor A minor, the same as the band.
 - Tenor lead sheet from the 557 (`6 Fake Books/Band Tunes/Autumn Leaves/`). It uses the 557 harmony, not the Playbook's.
+- **Tomplay Easy tenor PDF** (bought 2026-11-24; `6 Fake Books/Band Tunes/Autumn Leaves/`): 65 bars of 4/4, two choruses of the head, no written solos, chords above the changes. ⚠️ Written in tenor **E minor** (concert D minor), a fourth below the band's tenor A minor, so the chords read Am7 D7 Gmaj7 Cmaj7 F♯ø7 B7 Em6. Fine for practice with the Tomplay track; for band, read the 557 sheet above.
 - Our Autumn Leaves chord chart (tenor chords, guide tones, guitar shapes; PDF in the Playbook folder).
 - **Listening:**
   - Cannonball/Miles, *Somethin' Else*. This is the companion recording, Cannonball's phrasing.
