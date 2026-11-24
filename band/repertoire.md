@@ -52,16 +52,16 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 265    | Night and Day                   |     | WB                   |             | SRB                  | 1       |                   | JPA71          | none           |
 | 270    | Now's the Time                  |     |                      |             | RB2 p.265            | —       |                   | MT1 EZ4        | ✅              |
 | 272    | Oh, Lady Be Good                |     |                      |             | RB2 p.271 · SRB      | 1       | other             |                | ✅              |
-| 278    | On the Sunny Side of the Street | 110 | extra                |             |                      | 1       |                   | JPA126         | —              |
-| 280    | One Note Samba                  |     |                      |             |                      | 1       | Easy              |                | —              |
-| 290    | Perdido                         |     |                      |             | RB2 p.288 · AB p.146 | 1       |                   | JPA1           | —              |
-| 308    | Satin Doll                      |     |                      |             |                      | 1       | other             | MT1 JPA1 EZ1   | —              |
-| 311    | Secret Love                     |     |                      |             | SRB                  | 2       |                   |                | —              |
-| 314    | Shiny Stockings                 | 120 | extra                |             | RB2 p.318 · SRB      | 3       |                   |                | —              |
-| 322    | Softly, as in a Morning Sunrise | 170 | fast                 |             | RB2 p.330 · SRB      | 1       |                   | EZ2            | —              |
-| 326    | Someday My Prince Will Come     |     |                      |             |                      | 1       |                   |                | —              |
-| 332    | Sonnymoon for Two               | 120 | extra, Sonny Rollins |             |                      | —       |                   | MT6 EZ4        | —              |
-| 336    | Speak Low                       | 176 |                      |             | RB2 p.337            | 1       |                   | EZ2            | —              |
+| 278    | On the Sunny Side of the Street | 110 | extra                |             |                      | 1       |                   | JPA126         | ✅              |
+| 280    | One Note Samba                  |     |                      |             |                      | 1       | Easy              |                | ✅              |
+| 290    | Perdido                         |     |                      |             | RB2 p.288 · AB p.146 | 1       |                   | JPA1           | ✅              |
+| 308    | Satin Doll                      |     |                      |             |                      | 1       | other             | MT1 JPA1 EZ1   | ✅              |
+| 311    | Secret Love                     |     |                      |             | SRB                  | 2       |                   |                | ✅              |
+| 314    | Shiny Stockings                 | 120 | extra                |             | RB2 p.318 · SRB      | 3       |                   |                | ✅              |
+| 322    | Softly, as in a Morning Sunrise | 170 | fast                 |             | RB2 p.330 · SRB      | 1       |                   | EZ2            | ✅              |
+| 326    | Someday My Prince Will Come     |     |                      |             |                      | 1       |                   |                | ✅              |
+| 332    | Sonnymoon for Two               | 120 | extra, Sonny Rollins |             |                      | —       |                   | MT6 EZ4        | ✅              |
+| 336    | Speak Low                       | 176 |                      |             | RB2 p.337            | 1       |                   | EZ2            | ✅              |
 | 342    | Stella by Starlight             | 135 | totally OK; PB       |             | RBB                  | 1       | Easy              |                | —              |
 | 350    | Summertime                      | 110 |                      |             | RB2 p.323 · SRB      | 1       | Easy              | MT1 JPA160     | —              |
 | 356    | Sweet Georgia Brown             | 170 | extra; PB            |             | RB2 p.353 · SRB      | 1       |                   |                | —              |
