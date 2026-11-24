@@ -15,6 +15,24 @@
 
 Where to find charts, backing tracks and recordings: [repertoire.md](repertoire.md). Material for one tune: `../tunes/`.
 
+## Following along without playing (before you play at band)
+
+Decided 2026-11-24. Until you play with the band, sit with the chart (the 557, or the Bb tenor sheet) and follow the changes by ear while they play, keeping track in your head of where you are in the form. It's step 6 on its own, without the horn.
+
+**Practice it at home first, in this order:**
+1. **A full recording** with the chart. The band's real situation: horns, solos, a different feel from the chart.
+2. **A backing track with no melody:** a Playbook track, a Hal Leonard "rhythm section only" track, Tomplay with the sax muted, or Quartet.
+3. **iReal Pro:** a chord loop with no melody, in the band's key and tempo. It has no intros, so count them yourself.
+
+**How:**
+- Follow the **form first, not every bar:** know where each section starts (A, bridge, last 8) and listen for landmarks you can hear (the turnaround, a key change, the head coming back).
+- Keep a finger or pencil on the current bar. If you lose it, wait for the next landmark and rejoin there; don't hunt for the bar.
+- **Count choruses** in your head ("solo 2, then the head").
+- Start with tunes whose changes you already have (*Autumn Leaves*, *All Blues*, *All of Me*), and stay on one until you can follow a full chorus without getting lost.
+- Once that is easy, quietly add the **root, then the guide tones**, in your head.
+
+**At band:** the band may play its own intro, a different number of solo choruses, or its own ending, so treat the chart as a guide. Ask a bandmate for the road map before each tune (who solos, how many choruses, how it ends). If they allow it, record the rehearsal and follow along with the recording at home.
+
 ## Hearing the changes (ear training)
 
 All of this uses owned material plus free web tools:
