@@ -10,6 +10,7 @@ Files: the fake books are in `6 Fake Books/`; everything tune-specific is in `6 
 
 **Charts**
 - **557 p.7:** the band chart, concert G.
+- **Bb tenor lead sheet from the 557 p.7** (1 page, 6/8, key of D): head with the riff accompaniment as small notes, chords A7 / D7 / E7♯9 / F7♯9. The one to read at band until the Bb 557 arrives (melody, rhythm and chords checked bar by bar against the 557 scan, 2026-11-24; the small accompaniment notes were not compared).
 - **Real Book Vol. 1** Bb p.18: the 4-bar intro vamp is written out.
 - **AB Real Book** Bb p.13: road map, riff box, history note, and a solo chorus with guideline pitches.
 - **Hal Leonard tenor score via MuseScore:** intro, head, 4 written solos, coda; in 3/4; view only, no playback.
