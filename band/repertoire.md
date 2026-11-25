@@ -66,16 +66,16 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 326    | Someday My Prince Will Come     |     |                      |             |                      | 1       |                   |                | ✅              |
 | 332    | Sonnymoon for Two               | 120 | extra, Sonny Rollins |             |                      | —       |                   | MT6 EZ4        | ✅              |
 | 336    | Speak Low                       | 176 |                      |             | RB2 p.337            | 1       |                   | EZ2            | ✅              |
-| 342    | Stella by Starlight             | 135 | totally OK; PB       |             | RBB                  | 1       | Easy              |                | —              |
-| 350    | Summertime                      | 110 |                      |             | RB2 p.323 · SRB      | 1       | Easy              | MT1 JPA160     | —              |
-| 356    | Sweet Georgia Brown             | 170 | extra; PB            |             | RB2 p.353 · SRB      | 1       |                   |                | —              |
-| 357    | 'S Wonderful                    | 130 | extra                |             | SRB                  | 1       |                   |                | —              |
-| 361    | Tea for Two                     | 120 |                      |             | SRB                  | 2       |                   |                | —              |
-| 362    | Take the A Train                |     |                      |             |                      | 1       | other             | JPA1           | —              |
-| 373    | There Will Never Be Another You |     | WB                   |             |                      | 1       | Easy              | JPA128 EZ1     | —              |
-| 403    | Wave                            |     | WB                   |             |                      | 1       | Easy              |                | —              |
-| 404    | Watermelon Man                  | 110 |                      |             |                      | 1       | Easy              | MT5 JPA61      | —              |
-| 422    | Willow Weep for Me              |     |                      |             | RB2 p.396 · RBB      | 4       |                   |                | —              |
+| 342    | Stella by Starlight             | 135 | totally OK; PB       |             | RBB                  | 1       | Easy              |                | ✅              |
+| 350    | Summertime                      | 110 |                      |             | RB2 p.323 · SRB      | 1       | Easy              | MT1 JPA160     | ✅              |
+| 356    | Sweet Georgia Brown             | 170 | extra; PB            |             | RB2 p.353 · SRB      | 1       |                   |                | ✅              |
+| 357    | 'S Wonderful                    | 130 | extra                |             | SRB                  | 1       |                   |                | ✅              |
+| 361    | Tea for Two                     | 120 |                      |             | SRB                  | 2       |                   |                | ✅              |
+| 362    | Take the A Train                |     |                      |             |                      | 1       | other             | JPA1           | ✅              |
+| 373    | There Will Never Be Another You |     | WB                   |             |                      | 1       | Easy              | JPA128 EZ1     | ✅              |
+| 403    | Wave                            |     | WB                   |             |                      | 1       | Easy              |                | ✅              |
+| 404    | Watermelon Man                  | 110 |                      |             |                      | 1       | Easy              | MT5 JPA61      | ✅              |
+| 422    | Willow Weep for Me              |     |                      |             | RB2 p.396 · RBB      | 4       |                   |                | ✅              |
 | 432    | You Don't Know What Love Is     | 60  |                      |             |                      | 1       | Easy              |                | —              |
 | —      | C Jam Blues                     |     | new; not in the 557  |             | RB2 p.61             | 1       |                   |                | —              |
 
