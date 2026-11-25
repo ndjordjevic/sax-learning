@@ -1,6 +1,6 @@
 # Band repertoire (62 tunes)
 
-The weekly band plays from the **557 Jazz Standards** (C edition, concert pitch; a Bb edition is on order). Until it arrives, read tenor a whole step up, or use the tenor lead sheets transposed from the 557 in pCloud `6 Fake Books/Band Tunes/<Tune>/`, named `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`. So far there are two: *Autumn Leaves*, checked note for note against 557 p.21, and *All Blues*, checked bar by bar against 557 p.7 (melody and chords).
+The weekly band plays from the **557 Jazz Standards** (C edition, concert pitch; a Bb edition is on order). Until it arrives, read tenor a whole step up, or use the tenor lead sheets transposed from the 557 in pCloud `6 Fake Books/Band Tunes/<Tune>/`, named `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`. So far there are three: *Autumn Leaves*, checked note for note against 557 p.21; *All Blues*, checked bar by bar against 557 p.7 (melody and chords); and *All of Me*, checked bar by bar against 557 p.8.
 
 Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers are checked on the scans. ♩ = the bandmate's tempo; their notes are translated. Coverage was checked 2026-11-22. Five tunes the band played on 2026-11-24 were added on 2026-11-25 (marked *new*); their 557 pages are checked on the scans and their other sources on 2026-11-25 (fake-book indexes, Quartet's A-Z list, Tomplay, iReal Pro); MuseScore is still to do.
 

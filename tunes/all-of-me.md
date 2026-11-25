@@ -7,9 +7,9 @@ Material collected 2026-11-24. Not started yet.
 Files: the fake books are in `6 Fake Books/`; the tune-specific files are in `6 Fake Books/Band Tunes/All of Me/`.
 
 **Charts**
-- **557 p.8:** the band chart, concert key. The Bb tenor sheet from the 557 is not made yet (the Bb 557 is on order).
+- **557 p.8:** the band chart, concert key. **Bb tenor sheet:** `Band Tunes/All of Me/All of Me - Bb Tenor Sax (from 557 Jazz Standards).pdf` (made 2026-11-25): melody and chords transposed up a whole step to tenor D major, written E4–F♯5, with the 557's alternative harmonies in parentheses and both endings. Checked bar by bar against 557 p.8; a crossed-out note in bar 21 of the source is left out.
 - **Playbook Vol. 1, Study #3** (Bb edition pp.53–69), pages pulled out into three PDFs in the tune folder: chord map (pp.55–57), guide tones (p.58), chords analysis (pp.59–60, colour-coded).
-- **MuseScore community lead sheet** (.mxl + PDF) in `6 Fake Books/Lead Sheets - MuseScore community (band tunes)/`.
+- **MuseScore community lead sheet** (.mxl + PDF, concert C, with lyrics) in `6 Fake Books/Lead Sheets - MuseScore community (band tunes)/`. A **tenor version** (up a whole step to D major, written E4–F♯5, chords transposed, part set to tenor sax so MuseScore plays it at tenor pitch) is in `Band Tunes/All of Me/` as `All of Me - Lead Sheet Bb Tenor Sax (MuseScore community, transposed).mxl/.pdf` (made 2026-11-25). Its form differs a little from the 557: second half labelled B, a Cmaj7–Em7(♭5)/B♭ bar where the 557 has Cmaj7 Em7, and an E♭°7 in the first ending.
 - **Standards Workbook:** the bandmate marked it a *WB* tune, but the book has no *All of Me* chapter (searched the text 2026-11-24). It teaches 10 methods on other tunes that you can apply to any standard.
 
 **Play-alongs**
