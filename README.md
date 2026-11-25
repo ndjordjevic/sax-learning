@@ -40,7 +40,7 @@ Phases 1–5 in detail: [plan/study-plan.md](plan/study-plan.md). They're frozen
 
 | File | What's in it |
 |---|---|
-| [band/repertoire.md](band/repertoire.md) | The 57 band tunes: 557 page, tempo, status, and which fake book / backing-track app / lead sheet has each one; the backing-track apps |
+| [band/repertoire.md](band/repertoire.md) | The 62 band tunes: 557 page, tempo, status, and which fake book / backing-track app / lead sheet has each one; the backing-track apps |
 | [band/how-to-learn-a-standard.md](band/how-to-learn-a-standard.md) | The 8-step method for a band tune, ear training, and chord-tone ideas for later |
 | [tunes/](tunes/) | One file per tune being learned: progress, material, form |
 | [plan/study-plan.md](plan/study-plan.md) | Phases 1–5: every owned resource in order of difficulty |

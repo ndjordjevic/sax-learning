@@ -1,8 +1,8 @@
-# Band repertoire (57 tunes)
+# Band repertoire (62 tunes)
 
 The weekly band plays from the **557 Jazz Standards** (C edition, concert pitch; a Bb edition is on order). Until it arrives, read tenor a whole step up, or use the tenor lead sheets transposed from the 557 in pCloud `6 Fake Books/Band Tunes/<Tune>/`, named `<Tune> - Bb Tenor Sax (from 557 Jazz Standards).pdf`. So far there are two: *Autumn Leaves*, checked note for note against 557 p.21, and *All Blues*, checked bar by bar against 557 p.7 (melody and chords).
 
-Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers are checked on the scans. ♩ = the bandmate's tempo; their notes are translated. Coverage was checked 2026-11-22.
+Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers are checked on the scans. ♩ = the bandmate's tempo; their notes are translated. Coverage was checked 2026-11-22. Five tunes the band played on 2026-11-24 were added on 2026-11-25 (marked *new*); their 557 pages are checked on the scans, but the other source columns aren't filled yet.
 
 **Columns**
 
@@ -18,6 +18,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | ------ | ------------------------------- | --- | -------------------- | ----------- | -------------------- | ------- | ----------------- | -------------- | -------------- |
 | 7      | All Blues                       |     |                      | ⏭ next      | AB p.13              | 1       | V.Easy ✅ · Easy ✅ · E/I ✅ | MT3 EZ4        | ✅ + tenor head |
 | 8      | All of Me                       |     | PB WB                |             |                      | 1       |                   | JPA128 EZ1     | ✅              |
+| 9      | Almost Like Being in Love       |     | new                  |             |                      |         |                   |                | —              |
 | 10     | All the Things You Are          |     | PB WB                |             |                      | 1       | Easy              | EZ1            | ✅              |
 | 21     | Autumn Leaves                   | 170 | PB                   | 🔄 learning | RBB                  | 1       | Easy ✅            | MT1 JPA128 EZ1 | ✅              |
 | 36     | Black Orpheus                   | 150 | WB                   |             |                      | 1       | Easy              | EZ5            | ✅              |
@@ -26,6 +27,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 44     | Blue Monk                       | 100 |                      |             | RBB                  | 1       | Easy              | MT7            | ✅              |
 | 48     | Body and Soul                   | 60  | ballad, good; WB     |             | RBB                  | 1       |                   | JPA4           | ✅              |
 | 51     | Bye Bye Blackbird               |     | ‼️ highlighted; WB   |             | RB2 p.50             | 1       | other             |                | ✅              |
+| 74     | Desafinado                      |     | new, Jobim           |             |                      |         |                   | JPA8           | —              |
 | 83     | Doxy                            |     |                      |             | RB2 p.79 · SRB       | 1       |                   | MT1 MT6 EZ3    | ✅              |
 | 100    | Fly Me to the Moon              |     |                      |             | RB2 p.106            | 1       | other             | EZ2            | ✅              |
 | 108    | Georgia on My Mind              |     |                      |             | RB2 p.119 · RBB      | 1       | Easy              |                | ✅              |
@@ -34,6 +36,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 123    | Honeysuckle Rose                |     |                      |             |                      | 1       | beginner only     | EZ2            | ✅              |
 | 127    | How High the Moon               | 170 | extra                |             |                      | 1       |                   |                | ✅              |
 | 128    | How Insensitive                 | 115 | extra, Jobim         |             | SRB · RBB            | 1       | Easy              | EZ5            | ✅              |
+| 134    | I Can't Give You Anything but Love |     | new                  |             |                      |         |                   | JPA77          | —              |
 | 142    | If I Should Lose You            |     |                      |             | RB2 p.155            | 1       |                   | JPA142 EZ2     | ✅              |
 | 146    | I Got Rhythm                    |     |                      |             | SRB                  | 1       | Easy              | JPA53          | ✅              |
 | 150    | I'll Remember April             |     |                      |             |                      | 1       |                   |                | ✅              |
@@ -55,6 +58,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 278    | On the Sunny Side of the Street | 110 | extra                |             |                      | 1       |                   | JPA126         | ✅              |
 | 280    | One Note Samba                  |     |                      |             |                      | 1       | Easy              |                | ✅              |
 | 290    | Perdido                         |     |                      |             | RB2 p.288 · AB p.146 | 1       |                   | JPA1           | ✅              |
+| 301    | Red Top                         |     | new                  |             |                      |         |                   |                | —              |
 | 308    | Satin Doll                      |     |                      |             |                      | 1       | other             | MT1 JPA1 EZ1   | ✅              |
 | 311    | Secret Love                     |     |                      |             | SRB                  | 2       |                   |                | ✅              |
 | 314    | Shiny Stockings                 | 120 | extra                |             | RB2 p.318 · SRB      | 3       |                   |                | ✅              |
@@ -73,14 +77,15 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 404    | Watermelon Man                  | 110 |                      |             |                      | 1       | Easy              | MT5 JPA61      | —              |
 | 422    | Willow Weep for Me              |     |                      |             | RB2 p.396 · RBB      | 4       |                   |                | —              |
 | 432    | You Don't Know What Love Is     | 60  |                      |             |                      | 1       | Easy              |                | —              |
+| —      | C Jam Blues                     |     | new; not in the 557  |             |                      |         |                   |                | —              |
 
 **Next tune:** *All Blues* ([tune file](../tunes/all-blues.md)). Then follow the table order: *All of Me* ([tune file](../tunes/all-of-me.md)) → *All the Things You Are* → …, with the Playbook tunes (*Blue Bossa*, *It Could Happen to You*) coming up along the way.
 
 ## Apps for backing tracks
 
-- **iReal Pro** (iOS/Android/Mac, about €15–20, one-time; bought): **57/57** tunes are in the free forum playlist **Jazz 1460** (1,510 tunes; *Black Orpheus* is listed as *Manhã de Carnaval*). Import it from the forum *inside the app*. It's a synthetic trio: any key, any tempo, any number of choruses, and a Bb chart view, so you can always match the 557's key and start slow. **First choice.** It loops the chords only: no melody and no intros.
-- **Quartet** (real-musician recordings, about $15 per volume, no subscription; **iPhone/iPad or M-series Mac only**): change key and tempo, loop sections, set repeats, mute any instrument. Repeated choruses are copies of the same take, and very slow tempos are time-stretched. **53/57.** For the 4 missing tunes use "Blues in F" (*Now's the Time*) or "Blues (in all keys)" in B♭ (*Sonnymoon for Two*). Full list: the "A-Z Song List" PDF on quartetapp.com. Second app, for when a tune is comfortable.
-- **Tomplay** (a real band with separate bass, drums, piano and **tenor sax** tracks: mute the sax to play the part yourself; tempo and loop; scrolling score). €5.99 per score, or about 30% off in the "Real Book Jazz by Tomplay, Tenor Saxophone" collections. A full performance is about 5 minutes: intro, head ×2, 3 written solo choruses, head ×2, ending. **27/57.** ⚠️ Matches are by title: *All of Me* on Tomplay is only John Legend's pop song, not the jazz standard (the jazz Marks & Simons scores in their old blog post are gone from the catalog, checked 2026-11-23); check the composer before buying. ⚠️ The easier levels can be in a different key from the band (the Very Easy and Easy levels of *All Blues* are in tenor G, not A): check the key before buying.
+- **iReal Pro** (iOS/Android/Mac, about €15–20, one-time; bought): **57/57** of the original tunes are in the free forum playlist **Jazz 1460** (1,510 tunes; *Black Orpheus* is listed as *Manhã de Carnaval*). Import it from the forum *inside the app*. It's a synthetic trio: any key, any tempo, any number of choruses, and a Bb chart view, so you can always match the 557's key and start slow. **First choice.** It loops the chords only: no melody and no intros.
+- **Quartet** (real-musician recordings, about $15 per volume, no subscription; **iPhone/iPad or M-series Mac only**): change key and tempo, loop sections, set repeats, mute any instrument. Repeated choruses are copies of the same take, and very slow tempos are time-stretched. **53/57** of the original tunes. For the 4 missing tunes use "Blues in F" (*Now's the Time*) or "Blues (in all keys)" in B♭ (*Sonnymoon for Two*). Full list: the "A-Z Song List" PDF on quartetapp.com. Second app, for when a tune is comfortable.
+- **Tomplay** (a real band with separate bass, drums, piano and **tenor sax** tracks: mute the sax to play the part yourself; tempo and loop; scrolling score). €5.99 per score, or about 30% off in the "Real Book Jazz by Tomplay, Tenor Saxophone" collections. A full performance is about 5 minutes: intro, head ×2, 3 written solo choruses, head ×2, ending. **27/57** of the original tunes. ⚠️ Matches are by title: *All of Me* on Tomplay is only John Legend's pop song, not the jazz standard (the jazz Marks & Simons scores in their old blog post are gone from the catalog, checked 2026-11-23); check the composer before buying. ⚠️ The easier levels can be in a different key from the band (the Very Easy and Easy levels of *All Blues* are in tenor G, not A): check the key before buying.
 - Owned audio: the Playbook and *Let's Play Jazz!* backing tracks (*Autumn Leaves* etc.), Aebersold.
 
 ## Where to hear the melody

@@ -15,7 +15,7 @@ The user's level and progress are recorded **only** in `README.md` ("📍 Where 
 Rule: **each fact lives in one file; the others link to it.** Don't copy a book's verdict or a tune's coverage into a second place.
 - `README.md`: start page. Where I am now + phase checklist, the **daily plan** (a short 5-item list + off-the-sax + weekly band + a few notes; **keep it short**, put detail in the other files), and a file index.
 - `plan/study-plan.md`: Phases 1–5, every owned resource ordered by real difficulty. Rows say only which chapters/exercises and why in that phase; the book's full verdict lives in the library. Rule: max 2–3 book streams per day. Frozen while the daily plan is on trial.
-- `band/repertoire.md`: the 57 band tunes (557 page, tempo, notes, status) with one column per source: other owned fake books, Quartet, Tomplay, Hal Leonard play-alongs, MuseScore lead sheets; plus the backing-track apps. Answer "where do I find tune X" from here.
+- `band/repertoire.md`: the 62 band tunes (557 page, tempo, notes, status) with one column per source: other owned fake books, Quartet, Tomplay, Hal Leonard play-alongs, MuseScore lead sheets; plus the backing-track apps. Answer "where do I find tune X" from here.
 - `band/how-to-learn-a-standard.md`: the step method for a band tune, ear training, chord-tone ideas for later.
 - `tunes/<tune>.md`: one file per tune being learned (progress, material, form). Add one when a tune becomes the current or next tune, and update its Status in the repertoire table.
 - `library/books.md`: owned books by level with the deep-read verdicts, the Essential Elements phase map, the owned fake books, horn/key notes. `✅`/`🔍` marks as in the README legend.
