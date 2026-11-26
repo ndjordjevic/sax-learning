@@ -18,7 +18,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | ------ | ------------------------------- | --- | -------------------- | ----------- | -------------------- | ------- | ----------------- | -------------- | -------------- |
 | 7      | All Blues                       |     |                      | ⏭ next      | AB p.13              | 1       | V.Easy ✅ · Easy ✅ · E/I ✅ | MT3 EZ4        | ✅ + tenor head |
 | 8      | All of Me                       |     | PB WB                |             |                      | 1       |                   | JPA128 EZ1     | ✅              |
-| 9      | Almost Like Being in Love       |     | new                  |             | AB p.14              | 1       |                   |                | —              |
+| 9      | Almost Like Being in Love       |     | new                  |             | AB p.14              | 1       |                   |                | ✅              |
 | 10     | All the Things You Are          |     | PB WB                |             |                      | 1       | Easy              | EZ1            | ✅              |
 | 21     | Autumn Leaves                   | 170 | PB                   | 🔄 learning | RBB                  | 1       | Easy ✅            | MT1 JPA128 EZ1 | ✅              |
 | 36     | Black Orpheus                   | 150 | WB                   |             |                      | 1       | Easy              | EZ5            | ✅              |
@@ -27,7 +27,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 44     | Blue Monk                       | 100 |                      |             | RBB                  | 1       | Easy              | MT7            | ✅              |
 | 48     | Body and Soul                   | 60  | ballad, good; WB     |             | RBB                  | 1       |                   | JPA4           | ✅              |
 | 51     | Bye Bye Blackbird               |     | ‼️ highlighted; WB   |             | RB2 p.50             | 1       | other             |                | ✅              |
-| 74     | Desafinado                      |     | new, Jobim           |             |                      | 1       | alto only         | JPA8           | —              |
+| 74     | Desafinado                      |     | new, Jobim           |             |                      | 1       | alto only         | JPA8           | ✅              |
 | 83     | Doxy                            |     |                      |             | RB2 p.79 · SRB       | 1       |                   | MT1 MT6 EZ3    | ✅              |
 | 100    | Fly Me to the Moon              |     |                      |             | RB2 p.106            | 1       | other             | EZ2            | ✅              |
 | 108    | Georgia on My Mind              |     |                      |             | RB2 p.119 · RBB      | 1       | Easy              |                | ✅              |
@@ -36,7 +36,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 123    | Honeysuckle Rose                |     |                      |             |                      | 1       | beginner only     | EZ2            | ✅              |
 | 127    | How High the Moon               | 170 | extra                |             |                      | 1       |                   |                | ✅              |
 | 128    | How Insensitive                 | 115 | extra, Jobim         |             | SRB · RBB            | 1       | Easy              | EZ5            | ✅              |
-| 134    | I Can't Give You Anything but Love |     | new                  |             |                      | 2       |                   | JPA77          | —              |
+| 134    | I Can't Give You Anything but Love |     | new                  |             |                      | 2       |                   | JPA77          | ✅              |
 | 142    | If I Should Lose You            |     |                      |             | RB2 p.155            | 1       |                   | JPA142 EZ2     | ✅              |
 | 146    | I Got Rhythm                    |     |                      |             | SRB                  | 1       | Easy              | JPA53          | ✅              |
 | 150    | I'll Remember April             |     |                      |             |                      | 1       |                   |                | ✅              |
@@ -58,7 +58,7 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 278    | On the Sunny Side of the Street | 110 | extra                |             |                      | 1       |                   | JPA126         | ✅              |
 | 280    | One Note Samba                  |     |                      |             |                      | 1       | Easy              |                | ✅              |
 | 290    | Perdido                         |     |                      |             | RB2 p.288 · AB p.146 | 1       |                   | JPA1           | ✅              |
-| 301    | Red Top                         |     | new                  |             | AB p.150             | —       |                   |                | —              |
+| 301    | Red Top                         |     | new                  |             | AB p.150             | —       |                   |                | ✅ (guitar + bass arr.) |
 | 308    | Satin Doll                      |     |                      |             |                      | 1       | other             | MT1 JPA1 EZ1   | ✅              |
 | 311    | Secret Love                     |     |                      |             | SRB                  | 2       |                   |                | ✅              |
 | 314    | Shiny Stockings                 | 120 | extra                |             | RB2 p.318 · SRB      | 3       |                   |                | ✅              |
@@ -76,8 +76,8 @@ Tune list from a bandmate's recordings list (2026-11-18). The 557 page numbers a
 | 403    | Wave                            |     | WB                   |             |                      | 1       | Easy              |                | ✅              |
 | 404    | Watermelon Man                  | 110 |                      |             |                      | 1       | Easy              | MT5 JPA61      | ✅              |
 | 422    | Willow Weep for Me              |     |                      |             | RB2 p.396 · RBB      | 4       |                   |                | ✅              |
-| 432    | You Don't Know What Love Is     | 60  |                      |             |                      | 1       | Easy              |                | —              |
-| —      | C Jam Blues                     |     | new; not in the 557  |             | RB2 p.61             | 1       |                   |                | —              |
+| 432    | You Don't Know What Love Is     | 60  |                      |             |                      | 1       | Easy              |                | ✅              |
+| —      | C Jam Blues                     |     | new; not in the 557  |             | RB2 p.61             | 1       |                   |                | ✅              |
 
 **Next tune:** *All Blues* ([tune file](../tunes/all-blues.md)). Then follow the table order: *All of Me* ([tune file](../tunes/all-of-me.md)) → *All the Things You Are* → …, with the Playbook tunes (*Blue Bossa*, *It Could Happen to You*) coming up along the way.
 
